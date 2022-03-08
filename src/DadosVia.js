@@ -128,914 +128,914 @@ export default function DadosVia(props) {
 
 // DADOS DO POD
 
-		estacaCadaMetro: '-70',
+		// estacaCadaMetro: '-70',
         bitolaPasseioPOD: '0',
-        variacaoBitolaBase5POD: '0',
         superelevacaoRecalquePOD: '0',
-        empenoBase2POD: '0',
-        empenoBase10POD: '',
         flechaMedidaPOD: '0',
-        variacaoFlechaBase3POD: '0',
+        /* variacaoBitolaBase5POD: '0',
+        empenoBase2POD: '0',
+        empenoBase10POD: '0',
+        variacaoFlechaBase3POD: '0', */
         
-        estacaCadaMetro1: '-69',
+        // estacaCadaMetro1: '-69',
         bitolaPasseioPOD1: '0',
-        variacaoBitolaBase5POD1: '0',
         superelevacaoRecalquePOD1: '0',
-        empenoBase2POD1: '0',
-        empenoBase10POD1: '',
         flechaMedidaPOD1: '0',
-        variacaoFlechaBase3POD1: '0',
+        /* variacaoBitolaBase5POD1: '0',
+        empenoBase2POD1: '0',
+        empenoBase10POD1: '0',
+        variacaoFlechaBase3POD1: '0', */
 
-        estacaCadaMetro2: '-68',
+        // estacaCadaMetro2: '-68',
         bitolaPasseioPOD2: '0',
-        variacaoBitolaBase5POD2: '0',
         superelevacaoRecalquePOD2: '0',
-        empenoBase2POD2: '0',
-        empenoBase10POD2: '',
         flechaMedidaPOD2: '0',
-        variacaoFlechaBase3POD2: '0',
+/*         variacaoBitolaBase5POD2: '0',
+        empenoBase2POD2: '0',
+        empenoBase10POD2: '0',
+        variacaoFlechaBase3POD2: '0', */
 
-        estacaCadaMetro3: '-67',
+        // estacaCadaMetro3: '-67',
         bitolaPasseioPOD3: '0',
-        variacaoBitolaBase5POD3: '0',
         superelevacaoRecalquePOD3: '0',
-        empenoBase2POD3: '0',
-        empenoBase10POD3: '',
         flechaMedidaPOD3: '0',
-        variacaoFlechaBase3POD3: '0',
+/*         variacaoBitolaBase5POD3: '0',
+        empenoBase2POD3: '0',
+        empenoBase10POD3: '0',
+        variacaoFlechaBase3POD3: '0', */
 
-        estacaCadaMetro4: '-66',
+        // estacaCadaMetro4: '-66',
         bitolaPasseioPOD4: '0',
-        variacaoBitolaBase5POD4: '0',
         superelevacaoRecalquePOD4: '0',
-        empenoBase2POD4: '0',
-        empenoBase10POD4: '',
         flechaMedidaPOD4: '0',
-        variacaoFlechaBase3POD4: '0',
+/*         variacaoBitolaBase5POD4: '0',
+        empenoBase2POD4: '0',
+        empenoBase10POD4: '0',
+        variacaoFlechaBase3POD4: '0', */
         
-        estacaCadaMetro5: '-65',
+        // estacaCadaMetro5: '-65',
         bitolaPasseioPOD5: '0',
-        variacaoBitolaBase5POD5: '0',
         superelevacaoRecalquePOD5: '0',
-        empenoBase2POD5: '0',
-        empenoBase10POD5: '',
         flechaMedidaPOD5: '0',
-        variacaoFlechaBase3POD5: '0',
+/*         variacaoBitolaBase5POD5: '0',
+        empenoBase2POD5: '0',
+        empenoBase10POD5: '0',
+        variacaoFlechaBase3POD5: '0', */
 
-        estacaCadaMetro6: '-64',
+        // estacaCadaMetro6: '-64',
         bitolaPasseioPOD6: '0',
-        variacaoBitolaBase5POD6: '0',
         superelevacaoRecalquePOD6: '0',
-        empenoBase2POD6: '0',
-        empenoBase10POD6: '',
         flechaMedidaPOD6: '0',
-        variacaoFlechaBase3POD6: '0',
+ /*        variacaoBitolaBase5POD6: '0',
+        empenoBase2POD6: '0',
+        empenoBase10POD6: '0',
+        variacaoFlechaBase3POD6: '0', */
 
-        estacaCadaMetro7: '-63',
+        // estacaCadaMetro7: '-63',
         bitolaPasseioPOD7: '0',
-        variacaoBitolaBase5POD7: '0',
         superelevacaoRecalquePOD7: '0',
-        empenoBase2POD7: '0',
-        empenoBase10POD7: '',
         flechaMedidaPOD7: '0',
-        variacaoFlechaBase3POD7: '0',
+/*         variacaoBitolaBase5POD7: '0',
+        empenoBase2POD7: '0',
+        empenoBase10POD7: '0',
+        variacaoFlechaBase3POD7: '0', */
 
-        estacaCadaMetro8: '-62',
+        // estacaCadaMetro8: '-62',
         bitolaPasseioPOD8: '0',
-        variacaoBitolaBase5POD8: '0',
         superelevacaoRecalquePOD8: '0',
-        empenoBase2POD8: '0',
-        empenoBase10POD8: '',
         flechaMedidaPOD8: '0',
-        variacaoFlechaBase3POD8: '0',
+/*         variacaoBitolaBase5POD8: '0',
+        empenoBase2POD8: '0',
+        empenoBase10POD8: '0',
+        variacaoFlechaBase3POD8: '0', */
 
-        estacaCadaMetro9: '-61',
+        // estacaCadaMetro9: '-61',
         bitolaPasseioPOD9: '0',
-        variacaoBitolaBase5POD9: '0',
         superelevacaoRecalquePOD9: '0',
-        empenoBase2POD9: '0',
-        empenoBase10POD9: '',
         flechaMedidaPOD9: '0',
-        variacaoFlechaBase3POD9: '0',
+/*         variacaoBitolaBase5POD9: '0',
+        empenoBase2POD9: '0',
+        empenoBase10POD9: '0',
+        variacaoFlechaBase3POD9: '0', */
 
-        estacaCadaMetro10: '-60',
+        // estacaCadaMetro10: '-60',
         bitolaPasseioPOD10: '0',
-        variacaoBitolaBase5POD10: '0',
         superelevacaoRecalquePOD10: '0',
-        empenoBase2POD10: '0',
-        empenoBase10POD10: '',
         flechaMedidaPOD10: '0',
-        variacaoFlechaBase3POD10: '0',
+/*         variacaoBitolaBase5POD10: '0',
+        empenoBase2POD10: '0',
+        empenoBase10POD10: '0',
+        variacaoFlechaBase3POD10: '0', */
 
-        estacaCadaMetro11: '-59',
+        // estacaCadaMetro11: '-59',
         bitolaPasseioPOD11: '0',
-        variacaoBitolaBase5POD11: '0',
         superelevacaoRecalquePOD11: '0',
-        empenoBase2POD11: '0',
-        empenoBase10POD11: '',
         flechaMedidaPOD11: '0',
-        variacaoFlechaBase3POD11: '0',
+/*         variacaoBitolaBase5POD11: '0',
+        empenoBase2POD11: '0',
+        empenoBase10POD11: '0',
+        variacaoFlechaBase3POD11: '0', */
         
-        estacaCadaMetro12: '-58',
+        // estacaCadaMetro12: '-58',
         bitolaPasseioPOD12: '0',
-        variacaoBitolaBase5POD12: '0',
         superelevacaoRecalquePOD12: '0',
-        empenoBase2POD12: '0',
-        empenoBase10POD12: '',
         flechaMedidaPOD12: '0',
-        variacaoFlechaBase3POD12: '0',
+/*         variacaoBitolaBase5POD12: '0',
+        empenoBase2POD12: '0',
+        empenoBase10POD12: '0',
+        variacaoFlechaBase3POD12: '0', */
         
-        estacaCadaMetro13: '-57',
+        // estacaCadaMetro13: '-57',
         bitolaPasseioPOD13: '0',
-        variacaoBitolaBase5POD13: '0',
         superelevacaoRecalquePOD13: '0',
-        empenoBase2POD13: '0',
-        empenoBase10POD13: '',
         flechaMedidaPOD13: '0',
-        variacaoFlechaBase3POD13: '0',
+/*         variacaoBitolaBase5POD13: '0',
+        empenoBase2POD13: '0',
+        empenoBase10POD13: '0',
+        variacaoFlechaBase3POD13: '0', */
 
-        estacaCadaMetro14: '-56',
+        // estacaCadaMetro14: '-56',
         bitolaPasseioPOD14: '0',
-        variacaoBitolaBase5POD14: '0',
         superelevacaoRecalquePOD14: '0',
-        empenoBase2POD14: '0',
-        empenoBase10POD14: '',
         flechaMedidaPOD14: '0',
-        variacaoFlechaBase3POD14: '0',
+/*         variacaoBitolaBase5POD14: '0',
+        empenoBase2POD14: '0',
+        empenoBase10POD14: '0',
+        variacaoFlechaBase3POD14: '0', */
 
-        estacaCadaMetro15: '-55',
+        // estacaCadaMetro15: '-55',
         bitolaPasseioPOD15: '0',
-        variacaoBitolaBase5POD15: '0',
         superelevacaoRecalquePOD15: '0',
-        empenoBase2POD15: '0',
-        empenoBase10POD15: '',
         flechaMedidaPOD15: '0',
-        variacaoFlechaBase3POD15: '0',
+ /*        variacaoBitolaBase5POD15: '0',
+        empenoBase2POD15: '0',
+        empenoBase10POD15: '0',
+        variacaoFlechaBase3POD15: '0', */
 
-        estacaCadaMetro16: '-54',
+        // estacaCadaMetro16: '-54',
         bitolaPasseioPOD16: '0',
-        variacaoBitolaBase5POD16: '0',
         superelevacaoRecalquePOD16: '0',
-        empenoBase2POD16: '0',
-        empenoBase10POD16: '',
         flechaMedidaPOD16: '0',
-        variacaoFlechaBase3POD16: '0',
+/*         variacaoBitolaBase5POD16: '0',
+        empenoBase2POD16: '0',
+        empenoBase10POD16: '0',
+        variacaoFlechaBase3POD16: '0', */
 
-        estacaCadaMetro17: '-53',
+        // estacaCadaMetro17: '-53',
         bitolaPasseioPOD17: '0',
-        variacaoBitolaBase5POD17: '0',
         superelevacaoRecalquePOD17: '0',
-        empenoBase2POD17: '0',
-        empenoBase10POD17: '',
         flechaMedidaPOD17: '0',
-        variacaoFlechaBase3POD17: '0',
+/*         variacaoBitolaBase5POD17: '0',
+        empenoBase2POD17: '0',
+        empenoBase10POD17: '0',
+        variacaoFlechaBase3POD17: '0', */
 
-        estacaCadaMetro18: '-52',
+        // estacaCadaMetro18: '-52',
         bitolaPasseioPOD18: '0',
-        variacaoBitolaBase5POD18: '0',
         superelevacaoRecalquePOD18: '0',
-        empenoBase2POD18: '0',
-        empenoBase10POD18: '',
         flechaMedidaPOD18: '0',
-        variacaoFlechaBase3POD18: '0',
+/*         variacaoBitolaBase5POD18: '0',
+        empenoBase2POD18: '0',
+        empenoBase10POD18: '0',
+        variacaoFlechaBase3POD18: '0', */
 
-        estacaCadaMetro19: '-51',
+        // estacaCadaMetro19: '-51',
         bitolaPasseioPOD19: '0',
-        variacaoBitolaBase5POD19: '0',
         superelevacaoRecalquePOD19: '0',
-        empenoBase2POD19: '0',
-        empenoBase10POD19: '',
         flechaMedidaPOD19: '0',
-        variacaoFlechaBase3POD19: '0',
+/*         variacaoBitolaBase5POD19: '0',
+        empenoBase2POD19: '0',
+        empenoBase10POD19: '0',
+        variacaoFlechaBase3POD19: '0', */
 
-        estacaCadaMetro20: '-50',
+        // estacaCadaMetro20: '-50',
         bitolaPasseioPOD20: '0',
-        variacaoBitolaBase5POD20: '0',
         superelevacaoRecalquePOD20: '0',
-        empenoBase2POD20: '0',
-        empenoBase10POD20: '',
         flechaMedidaPOD20: '0',
-        variacaoFlechaBase3POD20: '0',
+ /*        variacaoBitolaBase5POD20: '0',
+        empenoBase2POD20: '0',
+        empenoBase10POD20: '0',
+        variacaoFlechaBase3POD20: '0', */
 
-        estacaCadaMetro21: '-49',
+        // estacaCadaMetro21: '-49',
         bitolaPasseioPOD21: '0',
-        variacaoBitolaBase5POD21: '0',
         superelevacaoRecalquePOD21: '0',
-        empenoBase2POD21: '0',
-        empenoBase10POD21: '',
         flechaMedidaPOD21: '0',
-        variacaoFlechaBase3POD21: '0',
+ /*        variacaoBitolaBase5POD21: '0',
+        empenoBase2POD21: '0',
+        empenoBase10POD21: '0',
+        variacaoFlechaBase3POD21: '0', */
 
-        estacaCadaMetro22: '-48',
+        // estacaCadaMetro22: '-48',
         bitolaPasseioPOD22: '0',
-        variacaoBitolaBase5POD22: '0',
         superelevacaoRecalquePOD22: '0',
-        empenoBase2POD22: '0',
-        empenoBase10POD22: '',
         flechaMedidaPOD22: '0',
-        variacaoFlechaBase3POD22: '0',
+/*         variacaoBitolaBase5POD22: '0',
+        empenoBase2POD22: '0',
+        empenoBase10POD22: '0',
+        variacaoFlechaBase3POD22: '0', */
 
-        estacaCadaMetro23: '-47',
+        // estacaCadaMetro23: '-47',
         bitolaPasseioPOD23: '0',
-        variacaoBitolaBase5POD23: '0',
         superelevacaoRecalquePOD23: '0',
-        empenoBase2POD23: '0',
-        empenoBase10POD23: '',
         flechaMedidaPOD23: '0',
-        variacaoFlechaBase3POD23: '0',
+/*         variacaoBitolaBase5POD23: '0',
+        empenoBase2POD23: '0',
+        empenoBase10POD23: '0',
+        variacaoFlechaBase3POD23: '0', */
 
-        estacaCadaMetro24: '-46',
+        // estacaCadaMetro24: '-46',
         bitolaPasseioPOD24: '0',
-        variacaoBitolaBase5POD24: '0',
         superelevacaoRecalquePOD24: '0',
-        empenoBase2POD24: '0',
-        empenoBase10POD24: '',
         flechaMedidaPOD24: '0',
-        variacaoFlechaBase3POD24: '0',
+/*         variacaoBitolaBase5POD24: '0',
+        empenoBase2POD24: '0',
+        empenoBase10POD24: '0',
+        variacaoFlechaBase3POD24: '0', */
 
-        estacaCadaMetro25: '-45',
+        // estacaCadaMetro25: '-45',
         bitolaPasseioPOD25: '0',
-        variacaoBitolaBase5POD25: '0',
         superelevacaoRecalquePOD25: '0',
-        empenoBase2POD25: '0',
-        empenoBase10POD25: '',
         flechaMedidaPOD25: '0',
-        variacaoFlechaBase3POD25: '0',
+/*         variacaoBitolaBase5POD25: '0',
+        empenoBase2POD25: '0',
+        empenoBase10POD25: '0',
+        variacaoFlechaBase3POD25: '0', */
 
-        estacaCadaMetro26: '-44',
+        // estacaCadaMetro26: '-44',
         bitolaPasseioPOD26: '0',
-        variacaoBitolaBase5POD26: '0',
         superelevacaoRecalquePOD26: '0',
-        empenoBase2POD26: '0',
-        empenoBase10POD26: '',
         flechaMedidaPOD26: '0',
-        variacaoFlechaBase3POD26: '0',
+/*         variacaoBitolaBase5POD26: '0',
+        empenoBase2POD26: '0',
+        empenoBase10POD26: '0',
+        variacaoFlechaBase3POD26: '0', */
 
-        estacaCadaMetro27: '-43',
+        // estacaCadaMetro27: '-43',
         bitolaPasseioPOD27: '0',
-        variacaoBitolaBase5POD27: '0',
         superelevacaoRecalquePOD27: '0',
-        empenoBase2POD27: '0',
-        empenoBase10POD27: '',
         flechaMedidaPOD27: '0',
-        variacaoFlechaBase3POD27: '0',
+/*         variacaoBitolaBase5POD27: '0',
+        empenoBase2POD27: '0',
+        empenoBase10POD27: '0',
+        variacaoFlechaBase3POD27: '0', */
 
-        estacaCadaMetro28: '-42',
+        // estacaCadaMetro28: '-42',
         bitolaPasseioPOD28: '0',
-        variacaoBitolaBase5POD28: '0',
         superelevacaoRecalquePOD28: '0',
-        empenoBase2POD28: '0',
-        empenoBase10POD28: '',
         flechaMedidaPOD28: '0',
-        variacaoFlechaBase3POD28: '0',
+/*         variacaoBitolaBase5POD28: '0',
+        empenoBase2POD28: '0',
+        empenoBase10POD28: '0',
+        variacaoFlechaBase3POD28: '0', */
 
-        estacaCadaMetro29: '-41',
+        // estacaCadaMetro29: '-41',
         bitolaPasseioPOD29: '0',
-        variacaoBitolaBase5POD29: '0',
         superelevacaoRecalquePOD29: '0',
-        empenoBase2POD29: '0',
-        empenoBase10POD29: '',
         flechaMedidaPOD29: '0',
-        variacaoFlechaBase3POD29: '0',
+/*         variacaoBitolaBase5POD29: '0',
+        empenoBase2POD29: '0',
+        empenoBase10POD29: '0',
+        variacaoFlechaBase3POD29: '0', */
 
-        estacaCadaMetro30: '-40',
+        // estacaCadaMetro30: '-40',
         bitolaPasseioPOD30: '0',
-        variacaoBitolaBase5POD30: '0',
         superelevacaoRecalquePOD30: '0',
-        empenoBase2POD30: '0',
-        empenoBase10POD30: '',
         flechaMedidaPOD30: '0',
-        variacaoFlechaBase3POD30: '0',
+/*         variacaoBitolaBase5POD30: '0',
+        empenoBase2POD30: '0',
+        empenoBase10POD30: '0',
+        variacaoFlechaBase3POD30: '0', */
 
-        estacaCadaMetro31: '-39',
+        // estacaCadaMetro31: '-39',
         bitolaPasseioPOD31: '0',
-        variacaoBitolaBase5POD31: '0',
         superelevacaoRecalquePOD31: '0',
-        empenoBase2POD31: '0',
-        empenoBase10POD31: '',
         flechaMedidaPOD31: '0',
-        variacaoFlechaBase3POD31: '0',
+/*         variacaoBitolaBase5POD31: '0',
+        empenoBase2POD31: '0',
+        empenoBase10POD31: '0',
+        variacaoFlechaBase3POD31: '0', */
 
-        estacaCadaMetro32: '-38',
+        // estacaCadaMetro32: '-38',
         bitolaPasseioPOD32: '0',
-        variacaoBitolaBase5POD32: '0',
         superelevacaoRecalquePOD32: '0',
-        empenoBase2POD32: '0',
-        empenoBase10POD32: '',
         flechaMedidaPOD32: '0',
-        variacaoFlechaBase3POD32: '0',
+/*         variacaoBitolaBase5POD32: '0',
+        empenoBase2POD32: '0',
+        empenoBase10POD32: '0',
+        variacaoFlechaBase3POD32: '0', */
 
-        estacaCadaMetro33: '-37',
+        // estacaCadaMetro33: '-37',
         bitolaPasseioPOD33: '0',
-        variacaoBitolaBase5POD33: '0',
         superelevacaoRecalquePOD33: '0',
-        empenoBase2POD33: '0',
-        empenoBase10POD33: '',
         flechaMedidaPOD33: '0',
-        variacaoFlechaBase3POD33: '0',
+/*         variacaoBitolaBase5POD33: '0',
+        empenoBase2POD33: '0',
+        empenoBase10POD33: '0',
+        variacaoFlechaBase3POD33: '0', */
 
-        estacaCadaMetro34: '-36',
+        // estacaCadaMetro34: '-36',
         bitolaPasseioPOD34: '0',
-        variacaoBitolaBase5POD34: '0',
         superelevacaoRecalquePOD34: '0',
-        empenoBase2POD34: '0',
-        empenoBase10POD34: '',
         flechaMedidaPOD34: '0',
-        variacaoFlechaBase3POD34: '0',
+/*         variacaoBitolaBase5POD34: '0',
+        empenoBase2POD34: '0',
+        empenoBase10POD34: '0',
+        variacaoFlechaBase3POD34: '0', */
 
-        estacaCadaMetro35: '-35',
+        // estacaCadaMetro35: '-35',
         bitolaPasseioPOD35: '0',
-        variacaoBitolaBase5POD35: '0',
         superelevacaoRecalquePOD35: '0',
-        empenoBase2POD35: '0',
-        empenoBase10POD35: '',
         flechaMedidaPOD35: '0',
-        variacaoFlechaBase3POD35: '0',
+/*         variacaoBitolaBase5POD35: '0',
+        empenoBase2POD35: '0',
+        empenoBase10POD35: '0',
+        variacaoFlechaBase3POD35: '0', */
 
-        estacaCadaMetro36: '-34',
+        // estacaCadaMetro36: '-34',
         bitolaPasseioPOD36: '0',
-        variacaoBitolaBase5POD36: '0',
         superelevacaoRecalquePOD36: '0',
-        empenoBase2POD36: '0',
-        empenoBase10POD36: '',
         flechaMedidaPOD36: '0',
-        variacaoFlechaBase3POD36: '0',
+/*         variacaoBitolaBase5POD36: '0',
+        empenoBase2POD36: '0',
+        empenoBase10POD36: '0',
+        variacaoFlechaBase3POD36: '0', */
 
-        estacaCadaMetro37: '-33',
+        // estacaCadaMetro37: '-33',
         bitolaPasseioPOD37: '0',
-        variacaoBitolaBase5POD37: '0',
         superelevacaoRecalquePOD37: '0',
-        empenoBase2POD37: '0',
-        empenoBase10POD37: '',
         flechaMedidaPOD37: '0',
-        variacaoFlechaBase3POD37: '0',
+/*         variacaoBitolaBase5POD37: '0',
+        empenoBase2POD37: '0',
+        empenoBase10POD37: '0',
+        variacaoFlechaBase3POD37: '0', */
 
-        estacaCadaMetro38: '-32',
+        // estacaCadaMetro38: '-32',
         bitolaPasseioPOD38: '0',
-        variacaoBitolaBase5POD38: '0',
         superelevacaoRecalquePOD38: '0',
-        empenoBase2POD38: '0',
-        empenoBase10POD38: '',
         flechaMedidaPOD38: '0',
+/*         variacaoBitolaBase5POD38: '0',
+        empenoBase2POD38: '0',
+        empenoBase10POD38: '0',
         variacaoFlechaBase3POD38: '0',
-
-        estacaCadaMetro39: '-31',
+ */
+        // estacaCadaMetro39: '-31',
         bitolaPasseioPOD39: '0',
-        variacaoBitolaBase5POD39: '0',
         superelevacaoRecalquePOD39: '0',
-        empenoBase2POD39: '0',
-        empenoBase10POD39: '',
         flechaMedidaPOD39: '0',
-        variacaoFlechaBase3POD39: '0',
+/*         variacaoBitolaBase5POD39: '0',
+        empenoBase2POD39: '0',
+        empenoBase10POD39: '0',
+        variacaoFlechaBase3POD39: '0', */
 
-        estacaCadaMetro40: '-30',
+        // estacaCadaMetro40: '-30',
         bitolaPasseioPOD40: '0',
-        variacaoBitolaBase5POD40: '0',
         superelevacaoRecalquePOD40: '0',
-        empenoBase2POD40: '0',
-        empenoBase10POD40: '',
         flechaMedidaPOD40: '0',
-        variacaoFlechaBase3POD40: '0',
+/*         variacaoBitolaBase5POD40: '0',
+        empenoBase2POD40: '0',
+        empenoBase10POD40: '0',
+        variacaoFlechaBase3POD40: '0', */
 
-        estacaCadaMetro41: '-29',
+        // estacaCadaMetro41: '-29',
         bitolaPasseioPOD41: '0',
-        variacaoBitolaBase5POD41: '0',
         superelevacaoRecalquePOD41: '0',
-        empenoBase2POD41: '0',
-        empenoBase10POD41: '',
         flechaMedidaPOD41: '0',
-        variacaoFlechaBase3POD41: '0',
+/*         variacaoBitolaBase5POD41: '0',
+        empenoBase2POD41: '0',
+        empenoBase10POD41: '0',
+        variacaoFlechaBase3POD41: '0', */
 
-        estacaCadaMetro42: '-28',
+        // estacaCadaMetro42: '-28',
         bitolaPasseioPOD42: '0',
-        variacaoBitolaBase5POD42: '0',
         superelevacaoRecalquePOD42: '0',
-        empenoBase2POD42: '0',
-        empenoBase10POD42: '',
         flechaMedidaPOD42: '0',
-        variacaoFlechaBase3POD42: '0',
+/*         variacaoBitolaBase5POD42: '0',
+        empenoBase2POD42: '0',
+        empenoBase10POD42: '0',
+        variacaoFlechaBase3POD42: '0', */
 
-        estacaCadaMetro43: '-27',
+        // estacaCadaMetro43: '-27',
         bitolaPasseioPOD43: '0',
-        variacaoBitolaBase5POD43: '0',
         superelevacaoRecalquePOD43: '0',
-        empenoBase2POD43: '0',
-        empenoBase10POD43: '',
         flechaMedidaPOD43: '0',
-        variacaoFlechaBase3POD43: '0',
+/*         variacaoBitolaBase5POD43: '0',
+        empenoBase2POD43: '0',
+        empenoBase10POD43: '0',
+        variacaoFlechaBase3POD43: '0', */
 
-        estacaCadaMetro44: '-26',
+        // estacaCadaMetro44: '-26',
         bitolaPasseioPOD44: '0',
-        variacaoBitolaBase5POD44: '0',
         superelevacaoRecalquePOD44: '0',
-        empenoBase2POD44: '0',
-        empenoBase10POD44: '',
         flechaMedidaPOD44: '0',
-        variacaoFlechaBase3POD44: '0',
+/*         variacaoBitolaBase5POD44: '0',
+        empenoBase2POD44: '0',
+        empenoBase10POD44: '0',
+        variacaoFlechaBase3POD44: '0', */
 
-        estacaCadaMetro45: '-25',
+        // estacaCadaMetro45: '-25',
         bitolaPasseioPOD45: '0',
-        variacaoBitolaBase5POD45: '0',
         superelevacaoRecalquePOD45: '0',
-        empenoBase2POD45: '0',
-        empenoBase10POD45: '',
         flechaMedidaPOD45: '0',
-        variacaoFlechaBase3POD45: '0',
+/*         variacaoBitolaBase5POD45: '0',
+        empenoBase2POD45: '0',
+        empenoBase10POD45: '0',
+        variacaoFlechaBase3POD45: '0', */
 
-        estacaCadaMetro46: '-24',
+        // estacaCadaMetro46: '-24',
         bitolaPasseioPOD46: '0',
-        variacaoBitolaBase5POD46: '0',
         superelevacaoRecalquePOD46: '0',
-        empenoBase2POD46: '0',
-        empenoBase10POD46: '',
         flechaMedidaPOD46: '0',
-        variacaoFlechaBase3POD46: '0',
+/*         variacaoBitolaBase5POD46: '0',
+        empenoBase2POD46: '0',
+        empenoBase10POD46: '0',
+        variacaoFlechaBase3POD46: '0', */
 
-        estacaCadaMetro47: '-23',
+        // estacaCadaMetro47: '-23',
         bitolaPasseioPOD47: '0',
-        variacaoBitolaBase5POD47: '0',
         superelevacaoRecalquePOD47: '0',
-        empenoBase2POD47: '0',
-        empenoBase10POD47: '',
         flechaMedidaPOD47: '0',
-        variacaoFlechaBase3POD47: '0',
+/*         variacaoBitolaBase5POD47: '0',
+        empenoBase2POD47: '0',
+        empenoBase10POD47: '0',
+        variacaoFlechaBase3POD47: '0', */
 
-        estacaCadaMetro48: '-22',
+        // estacaCadaMetro48: '-22',
         bitolaPasseioPOD48: '0',
-        variacaoBitolaBase5POD48: '0',
         superelevacaoRecalquePOD48: '0',
-        empenoBase2POD48: '0',
-        empenoBase10POD48: '',
         flechaMedidaPOD48: '0',
-        variacaoFlechaBase3POD48: '0',
+/*         variacaoBitolaBase5POD48: '0',
+        empenoBase2POD48: '0',
+        empenoBase10POD48: '0',
+        variacaoFlechaBase3POD48: '0', */
 
-        estacaCadaMetro49: '-21',
+        // estacaCadaMetro49: '-21',
         bitolaPasseioPOD49: '0',
-        variacaoBitolaBase5POD49: '0',
         superelevacaoRecalquePOD49: '0',
-        empenoBase2POD49: '0',
-        empenoBase10POD49: '',
         flechaMedidaPOD49: '0',
-        variacaoFlechaBase3POD49: '0',
+/*         variacaoBitolaBase5POD49: '0',
+        empenoBase2POD49: '0',
+        empenoBase10POD49: '0',
+        variacaoFlechaBase3POD49: '0', */
 
-        estacaCadaMetro50: '-20',
+        // estacaCadaMetro50: '-20',
         bitolaPasseioPOD50: '0',
-        variacaoBitolaBase5POD50: '0',
         superelevacaoRecalquePOD50: '0',
-        empenoBase2POD50: '0',
-        empenoBase10POD50: '',
         flechaMedidaPOD50: '0',
-        variacaoFlechaBase3POD50: '0',
+/*         variacaoBitolaBase5POD50: '0',
+        empenoBase2POD50: '0',
+        empenoBase10POD50: '0',
+        variacaoFlechaBase3POD50: '0', */
 
-        estacaCadaMetro51: '-19',
+        // estacaCadaMetro51: '-19',
         bitolaPasseioPOD51: '0',
-        variacaoBitolaBase5POD51: '0',
         superelevacaoRecalquePOD51: '0',
-        empenoBase2POD51: '0',
-        empenoBase10POD51: '',
         flechaMedidaPOD51: '0',
-        variacaoFlechaBase3POD51: '0',
+/*         variacaoBitolaBase5POD51: '0',
+        empenoBase2POD51: '0',
+        empenoBase10POD51: '0',
+        variacaoFlechaBase3POD51: '0', */
 
-        estacaCadaMetro52: '-18',
+        // estacaCadaMetro52: '-18',
         bitolaPasseioPOD52: '0',
-        variacaoBitolaBase5POD52: '0',
         superelevacaoRecalquePOD52: '0',
-        empenoBase2POD52: '0',
-        empenoBase10POD52: '',
         flechaMedidaPOD52: '0',
-        variacaoFlechaBase3POD52: '0',
+/*         variacaoBitolaBase5POD52: '0',
+        empenoBase2POD52: '0',
+        empenoBase10POD52: '0',
+        variacaoFlechaBase3POD52: '0', */
 
-        estacaCadaMetro53: '-17',
+        // estacaCadaMetro53: '-17',
         bitolaPasseioPOD53: '0',
-        variacaoBitolaBase5POD53: '0',
         superelevacaoRecalquePOD53: '0',
-        empenoBase2POD53: '0',
-        empenoBase10POD53: '',
         flechaMedidaPOD53: '0',
-        variacaoFlechaBase3POD53: '0',
+/*         variacaoBitolaBase5POD53: '0',
+        empenoBase2POD53: '0',
+        empenoBase10POD53: '0',
+        variacaoFlechaBase3POD53: '0', */
 
-        estacaCadaMetro54: '-16',
+        // estacaCadaMetro54: '-16',
         bitolaPasseioPOD54: '0',
-        variacaoBitolaBase5POD54: '0',
         superelevacaoRecalquePOD54: '0',
-        empenoBase2POD54: '0',
-        empenoBase10POD54: '',
         flechaMedidaPOD54: '0',
-        variacaoFlechaBase3POD54: '0',
+/*         variacaoBitolaBase5POD54: '0',
+        empenoBase2POD54: '0',
+        empenoBase10POD54: '0',
+        variacaoFlechaBase3POD54: '0', */
 
-        estacaCadaMetro55: '-15',
+        // estacaCadaMetro55: '-15',
         bitolaPasseioPOD55: '0',
-        variacaoBitolaBase5POD55: '0',
         superelevacaoRecalquePOD55: '0',
-        empenoBase2POD55: '0',
-        empenoBase10POD55: '',
         flechaMedidaPOD55: '0',
-        variacaoFlechaBase3POD55: '0',
+/*         variacaoBitolaBase5POD55: '0',
+        empenoBase2POD55: '0',
+        empenoBase10POD55: '0',
+        variacaoFlechaBase3POD55: '0', */
 
-        estacaCadaMetro56: '-14',
+        // estacaCadaMetro56: '-14',
         bitolaPasseioPOD56: '0',
-        variacaoBitolaBase5POD56: '0',
         superelevacaoRecalquePOD56: '0',
-        empenoBase2POD56: '0',
-        empenoBase10POD56: '',
         flechaMedidaPOD56: '0',
-        variacaoFlechaBase3POD56: '0',
+/*         variacaoBitolaBase5POD56: '0',
+        empenoBase2POD56: '0',
+        empenoBase10POD56: '0',
+        variacaoFlechaBase3POD56: '0', */
 
-        estacaCadaMetro57: '-13',
+        // estacaCadaMetro57: '-13',
         bitolaPasseioPOD57: '0',
-        variacaoBitolaBase5POD57: '0',
         superelevacaoRecalquePOD57: '0',
-        empenoBase2POD57: '0',
-        empenoBase10POD57: '',
         flechaMedidaPOD57: '0',
-        variacaoFlechaBase3POD57: '0',
+/*         variacaoBitolaBase5POD57: '0',
+        empenoBase2POD57: '0',
+        empenoBase10POD57: '0',
+        variacaoFlechaBase3POD57: '0', */
 
-        estacaCadaMetro58: '-12',
+        // estacaCadaMetro58: '-12',
         bitolaPasseioPOD58: '0',
-        variacaoBitolaBase5POD58: '0',
         superelevacaoRecalquePOD58: '0',
-        empenoBase2POD58: '0',
-        empenoBase10POD58: '',
         flechaMedidaPOD58: '0',
-        variacaoFlechaBase3POD58: '0',
+/*         variacaoBitolaBase5POD58: '0',
+        empenoBase2POD58: '0',
+        empenoBase10POD58: '0',
+        variacaoFlechaBase3POD58: '0', */
 
-        estacaCadaMetro59: '-11',
+        // estacaCadaMetro59: '-11',
         bitolaPasseioPOD59: '0',
-        variacaoBitolaBase5POD59: '0',
         superelevacaoRecalquePOD59: '0',
-        empenoBase2POD59: '0',
-        empenoBase10POD59: '',
         flechaMedidaPOD59: '0',
-        variacaoFlechaBase3POD59: '0',
+/*         variacaoBitolaBase5POD59: '0',
+        empenoBase2POD59: '0',
+        empenoBase10POD59: '0',
+        variacaoFlechaBase3POD59: '0', */
 
-        estacaCadaMetro60: '-10',
+        // estacaCadaMetro60: '-10',
         bitolaPasseioPOD60: '0',
-        variacaoBitolaBase5POD60: '0',
         superelevacaoRecalquePOD60: '0',
-        empenoBase2POD60: '0',
-        empenoBase10POD60: '',
         flechaMedidaPOD60: '0',
-        variacaoFlechaBase3POD60: '0',
+/*         variacaoBitolaBase5POD60: '0',
+        empenoBase2POD60: '0',
+        empenoBase10POD60: '0',
+        variacaoFlechaBase3POD60: '0', */
 
-        estacaCadaMetro61: '-9',
+        // estacaCadaMetro61: '-9',
         bitolaPasseioPOD61: '0',
-        variacaoBitolaBase5POD61: '0',
         superelevacaoRecalquePOD61: '0',
-        empenoBase2POD61: '0',
-        empenoBase10POD61: '',
         flechaMedidaPOD61: '0',
-        variacaoFlechaBase3POD61: '0',
+/*         variacaoBitolaBase5POD61: '0',
+        empenoBase2POD61: '0',
+        empenoBase10POD61: '0',
+        variacaoFlechaBase3POD61: '0', */
 
-        estacaCadaMetro62: '-8',
+        // estacaCadaMetro62: '-8',
         bitolaPasseioPOD62: '0',
-        variacaoBitolaBase5POD62: '0',
         superelevacaoRecalquePOD62: '0',
-        empenoBase2POD62: '0',
-        empenoBase10POD62: '',
         flechaMedidaPOD62: '0',
-        variacaoFlechaBase3POD62: '0',
+/*         variacaoBitolaBase5POD62: '0',
+        empenoBase2POD62: '0',
+        empenoBase10POD62: '0',
+        variacaoFlechaBase3POD62: '0', */
 
-        estacaCadaMetro63: '-7',
+        // estacaCadaMetro63: '-7',
         bitolaPasseioPOD63: '0',
-        variacaoBitolaBase5POD63: '0',
         superelevacaoRecalquePOD63: '0',
-        empenoBase2POD63: '0',
-        empenoBase10POD63: '',
         flechaMedidaPOD63: '0',
-        variacaoFlechaBase3POD63: '0',
+/*         variacaoBitolaBase5POD63: '0',
+        empenoBase2POD63: '0',
+        empenoBase10POD63: '0',
+        variacaoFlechaBase3POD63: '0', */
 
-        estacaCadaMetro64: '-6',
+        // estacaCadaMetro64: '-6',
         bitolaPasseioPOD64: '0',
-        variacaoBitolaBase5POD64: '0',
         superelevacaoRecalquePOD64: '0',
-        empenoBase2POD64: '0',
-        empenoBase10POD64: '',
         flechaMedidaPOD64: '0',
-        variacaoFlechaBase3POD64: '0',
+/*         variacaoBitolaBase5POD64: '0',
+        empenoBase2POD64: '0',
+        empenoBase10POD64: '0',
+        variacaoFlechaBase3POD64: '0', */
 
-        estacaCadaMetro65: '-5',
+        // estacaCadaMetro65: '-5',
         bitolaPasseioPOD65: '0',
-        variacaoBitolaBase5POD65: '0',
         superelevacaoRecalquePOD65: '0',
-        empenoBase2POD65: '0',
-        empenoBase10POD65: '',
         flechaMedidaPOD65: '0',
-        variacaoFlechaBase3POD65: '0',
+/*         variacaoBitolaBase5POD65: '0',
+        empenoBase2POD65: '0',
+        empenoBase10POD65: '0',
+        variacaoFlechaBase3POD65: '0', */
 
-        estacaCadaMetro66: '-4',
+        // estacaCadaMetro66: '-4',
         bitolaPasseioPOD66: '0',
-        variacaoBitolaBase5POD66: '0',
         superelevacaoRecalquePOD66: '0',
-        empenoBase2POD66: '0',
-        empenoBase10POD66: '',
         flechaMedidaPOD66: '0',
-        variacaoFlechaBase3POD66: '0',
+/*         variacaoBitolaBase5POD66: '0',
+        empenoBase2POD66: '0',
+        empenoBase10POD66: '0',
+        variacaoFlechaBase3POD66: '0', */
 
-        estacaCadaMetro67: '-3',
+        // estacaCadaMetro67: '-3',
         bitolaPasseioPOD67: '0',
-        variacaoBitolaBase5POD67: '0',
         superelevacaoRecalquePOD67: '0',
-        empenoBase2POD67: '0',
-        empenoBase10POD67: '',
         flechaMedidaPOD67: '0',
-        variacaoFlechaBase3POD67: '0',
+/*         variacaoBitolaBase5POD67: '0',
+        empenoBase2POD67: '0',
+        empenoBase10POD67: '0',
+        variacaoFlechaBase3POD67: '0', */
 
-        estacaCadaMetro68: '-2',
+        // estacaCadaMetro68: '-2',
         bitolaPasseioPOD68: '0',
-        variacaoBitolaBase5POD68: '0',
         superelevacaoRecalquePOD68: '0',
-        empenoBase2POD68: '0',
-        empenoBase10POD68: '',
         flechaMedidaPOD68: '0',
-        variacaoFlechaBase3POD68: '0',
+/*         variacaoBitolaBase5POD68: '0',
+        empenoBase2POD68: '0',
+        empenoBase10POD68: '0',
+        variacaoFlechaBase3POD68: '0', */
 
-        estacaCadaMetro69: '-1',
+        // estacaCadaMetro69: '-1',
         bitolaPasseioPOD69: '0',
-        variacaoBitolaBase5POD69: '0',
         superelevacaoRecalquePOD69: '0',
-        empenoBase2POD69: '0',
-        empenoBase10POD69: '',
         flechaMedidaPOD69: '0',
-        variacaoFlechaBase3POD69: '0',
+/*         variacaoBitolaBase5POD69: '0',
+        empenoBase2POD69: '0',
+        empenoBase10POD69: '0',
+        variacaoFlechaBase3POD69: '0', */
 
-        estacaCadaMetro70: '0',
+        // estacaCadaMetro70: '0',
         bitolaPasseioPOD70: '0',
-        variacaoBitolaBase5POD70: '0',
         superelevacaoRecalquePOD70: '0',
-        empenoBase2POD70: '0',
-        empenoBase10POD70: '',
         flechaMedidaPOD70: '0',
-        variacaoFlechaBase3POD70: '0',
+/*         variacaoBitolaBase5POD70: '0',
+        empenoBase2POD70: '0',
+        empenoBase10POD70: '0',
+        variacaoFlechaBase3POD70: '0', */
 
-        estacaCadaMetro71: '1',
+        // estacaCadaMetro71: '1',
         bitolaPasseioPOD71: '0',
-        variacaoBitolaBase5POD71: '0',
         superelevacaoRecalquePOD71: '0',
+        flechaMedidaPOD71: '0',
+/*         variacaoBitolaBase5POD71: '0',
         empenoBase2POD71: '0',
         empenoBase10POD71: '0',
-        flechaMedidaPOD71: '0',
-        variacaoFlechaBase3POD71: '0',
+        variacaoFlechaBase3POD71: '0', */
 
-        estacaCadaMetro72: '2',
+        // estacaCadaMetro72: '2',
         bitolaPasseioPOD72: '0',
-        variacaoBitolaBase5POD72: '0',
         superelevacaoRecalquePOD72: '0',
-        empenoBase2POD72: '0',
-        empenoBase10POD72: '',
         flechaMedidaPOD72: '0',
-        variacaoFlechaBase3POD72: '0',
+/*         variacaoBitolaBase5POD72: '0',
+        empenoBase2POD72: '0',
+        empenoBase10POD72: '0',
+        variacaoFlechaBase3POD72: '0', */
 
-        estacaCadaMetro73: '3',
+        // estacaCadaMetro73: '3',
         bitolaPasseioPOD73: '0',
-        variacaoBitolaBase5POD73: '0',
         superelevacaoRecalquePOD73: '0',
-        empenoBase2POD73: '0',
-        empenoBase10POD73: '',
         flechaMedidaPOD73: '0',
+  /*       variacaoBitolaBase5POD73: '0',
+        empenoBase2POD73: '0',
+        empenoBase10POD73: '0',
         variacaoFlechaBase3POD73: '0',
-
-        estacaCadaMetro74: '4',
+ */
+        // estacaCadaMetro74: '4',
         bitolaPasseioPOD74: '0',
-        variacaoBitolaBase5POD74: '0',
         superelevacaoRecalquePOD74: '0',
-        empenoBase2POD74: '0',
-        empenoBase10POD74: '',
         flechaMedidaPOD74: '0',
-        variacaoFlechaBase3POD74: '0',
+/*         variacaoBitolaBase5POD74: '0',
+        empenoBase2POD74: '0',
+        empenoBase10POD74: '0',
+        variacaoFlechaBase3POD74: '0', */
 
-        estacaCadaMetro75: '5',
+        // estacaCadaMetro75: '5',
         bitolaPasseioPOD75: '0',
-        variacaoBitolaBase5POD75: '0',
         superelevacaoRecalquePOD75: '0',
-        empenoBase2POD75: '0',
-        empenoBase10POD75: '',
         flechaMedidaPOD75: '0',
-        variacaoFlechaBase3POD75: '0',
+  /*       variacaoBitolaBase5POD75: '0',
+        empenoBase2POD75: '0',
+        empenoBase10POD75: '0',
+        variacaoFlechaBase3POD75: '0', */
 
-        estacaCadaMetro76: '6',
+        // estacaCadaMetro76: '6',
         bitolaPasseioPOD76: '0',
-        variacaoBitolaBase5POD76: '0',
         superelevacaoRecalquePOD76: '0',
-        empenoBase2POD76: '0',
-        empenoBase10POD76: '',
         flechaMedidaPOD76: '0',
-        variacaoFlechaBase3POD76: '0',
+/*         variacaoBitolaBase5POD76: '0',
+        empenoBase2POD76: '0',
+        empenoBase10POD76: '0',
+        variacaoFlechaBase3POD76: '0', */
 
-        estacaCadaMetro77: '7',
+        // estacaCadaMetro77: '7',
         bitolaPasseioPOD77: '0',
-        variacaoBitolaBase5POD77: '0',
         superelevacaoRecalquePOD77: '0',
-        empenoBase2POD77: '0',
-        empenoBase10POD77: '',
         flechaMedidaPOD77: '0',
-        variacaoFlechaBase3POD77: '0',
+/*         variacaoBitolaBase5POD77: '0',
+        empenoBase2POD77: '0',
+        empenoBase10POD77: '0',
+        variacaoFlechaBase3POD77: '0', */
 
-        estacaCadaMetro78: '8',
+        // estacaCadaMetro78: '8',
         bitolaPasseioPOD78: '0',
-        variacaoBitolaBase5POD78: '0',
         superelevacaoRecalquePOD78: '0',
-        empenoBase2POD78: '0',
-        empenoBase10POD78: '',
         flechaMedidaPOD78: '0',
-        variacaoFlechaBase3POD78: '0',
+/*         variacaoBitolaBase5POD78: '0',
+        empenoBase2POD78: '0',
+        empenoBase10POD78: '0',
+        variacaoFlechaBase3POD78: '0', */
 
-        estacaCadaMetro79: '9',
+        // estacaCadaMetro79: '9',
         bitolaPasseioPOD79: '0',
-        variacaoBitolaBase5POD79: '0',
         superelevacaoRecalquePOD79: '0',
-        empenoBase2POD79: '0',
-        empenoBase10POD79: '',
         flechaMedidaPOD79: '0',
-        variacaoFlechaBase3POD79: '0',
+/*         variacaoBitolaBase5POD79: '0',
+        empenoBase2POD79: '0',
+        empenoBase10POD79: '0',
+        variacaoFlechaBase3POD79: '0', */
 
-        estacaCadaMetro80: '10',
+        // estacaCadaMetro80: '10',
         bitolaPasseioPOD80: '0',
-        variacaoBitolaBase5POD80: '0',
         superelevacaoRecalquePOD80: '0',
-        empenoBase2POD80: '0',
-        empenoBase10POD80: '',
         flechaMedidaPOD80: '0',
-        variacaoFlechaBase3POD80: '0',
+/*         variacaoBitolaBase5POD80: '0',
+        empenoBase2POD80: '0',
+        empenoBase10POD80: '0',
+        variacaoFlechaBase3POD80: '0', */
 
-        estacaCadaMetro81: '11',
+        // estacaCadaMetro81: '11',
         bitolaPasseioPOD81: '0',
-        variacaoBitolaBase5POD81: '0',
         superelevacaoRecalquePOD81: '0',
-        empenoBase2POD81: '0',
-        empenoBase10POD81: '',
         flechaMedidaPOD81: '0',
-        variacaoFlechaBase3POD81: '0',
+/*         variacaoBitolaBase5POD81: '0',
+        empenoBase2POD81: '0',
+        empenoBase10POD81: '0',
+        variacaoFlechaBase3POD81: '0', */
 
-        estacaCadaMetro82: '12',
+        // estacaCadaMetro82: '12',
         bitolaPasseioPOD82: '0',
-        variacaoBitolaBase5POD82: '0',
         superelevacaoRecalquePOD82: '0',
-        empenoBase2POD82: '0',
-        empenoBase10POD82: '',
         flechaMedidaPOD82: '0',
-        variacaoFlechaBase3POD82: '0',
+/*         variacaoBitolaBase5POD82: '0',
+        empenoBase2POD82: '0',
+        empenoBase10POD82: '0',
+        variacaoFlechaBase3POD82: '0', */
 
-        estacaCadaMetro83: '13',
+        // estacaCadaMetro83: '13',
         bitolaPasseioPOD83: '0',
-        variacaoBitolaBase5POD83: '0',
         superelevacaoRecalquePOD83: '0',
-        empenoBase2POD83: '0',
-        empenoBase10POD83: '',
         flechaMedidaPOD83: '0',
-        variacaoFlechaBase3POD83: '0',
+/*         variacaoBitolaBase5POD83: '0',
+        empenoBase2POD83: '0',
+        empenoBase10POD83: '0',
+        variacaoFlechaBase3POD83: '0', */
 
-        estacaCadaMetro84: '14',
+        // estacaCadaMetro84: '14',
         bitolaPasseioPOD84: '0',
-        variacaoBitolaBase5POD84: '0',
         superelevacaoRecalquePOD84: '0',
-        empenoBase2POD84: '0',
-        empenoBase10POD84: '',
         flechaMedidaPOD84: '0',
-        variacaoFlechaBase3POD84: '0',
+/*         variacaoBitolaBase5POD84: '0',
+        empenoBase2POD84: '0',
+        empenoBase10POD84: '0',
+        variacaoFlechaBase3POD84: '0', */
 
-        estacaCadaMetro85: '15',
+        // estacaCadaMetro85: '15',
         bitolaPasseioPOD85: '0',
-        variacaoBitolaBase5POD85: '0',
         superelevacaoRecalquePOD85: '0',
-        empenoBase2POD85: '0',
-        empenoBase10POD85: '',
         flechaMedidaPOD85: '0',
-        variacaoFlechaBase3POD85: '0',
+/*         variacaoBitolaBase5POD85: '0',
+        empenoBase2POD85: '0',
+        empenoBase10POD85: '0',
+        variacaoFlechaBase3POD85: '0', */
 
-        estacaCadaMetro86: '16',
+        // estacaCadaMetro86: '16',
         bitolaPasseioPOD86: '0',
-        variacaoBitolaBase5POD86: '0',
         superelevacaoRecalquePOD86: '0',
-        empenoBase2POD86: '0',
-        empenoBase10POD86: '',
         flechaMedidaPOD86: '0',
-        variacaoFlechaBase3POD86: '0',
+ /*        variacaoBitolaBase5POD86: '0',
+        empenoBase2POD86: '0',
+        empenoBase10POD86: '0',
+        variacaoFlechaBase3POD86: '0', */
 
-        estacaCadaMetro87: '17',
+        // estacaCadaMetro87: '17',
         bitolaPasseioPOD87: '0',
-        variacaoBitolaBase5POD87: '0',
         superelevacaoRecalquePOD87: '0',
-        empenoBase2POD87: '0',
-        empenoBase10POD87: '',
         flechaMedidaPOD87: '0',
-        variacaoFlechaBase3POD87: '0',
+/*         variacaoBitolaBase5POD87: '0',
+        empenoBase2POD87: '0',
+        empenoBase10POD87: '0',
+        variacaoFlechaBase3POD87: '0', */
 
-        estacaCadaMetro88: '18',
+        // estacaCadaMetro88: '18',
         bitolaPasseioPOD88: '0',
-        variacaoBitolaBase5POD88: '0',
         superelevacaoRecalquePOD88: '0',
-        empenoBase2POD88: '0',
-        empenoBase10POD88: '',
         flechaMedidaPOD88: '0',
-        variacaoFlechaBase3POD88: '0',
+/*         variacaoBitolaBase5POD88: '0',
+        empenoBase2POD88: '0',
+        empenoBase10POD88: '0',
+        variacaoFlechaBase3POD88: '0', */
 
-        estacaCadaMetro89: '19',
+        // estacaCadaMetro89: '19',
         bitolaPasseioPOD89: '0',
-        variacaoBitolaBase5POD89: '0',
         superelevacaoRecalquePOD89: '0',
-        empenoBase2POD89: '0',
-        empenoBase10POD89: '',
         flechaMedidaPOD89: '0',
-        variacaoFlechaBase3POD89: '0',
+/*         variacaoBitolaBase5POD89: '0',
+        empenoBase2POD89: '0',
+        empenoBase10POD89: '0',
+        variacaoFlechaBase3POD89: '0', */
 
-        estacaCadaMetro90: '20',
+        // estacaCadaMetro90: '20',
         bitolaPasseioPOD90: '0',
-        variacaoBitolaBase5POD90: '0',
         superelevacaoRecalquePOD90: '0',
-        empenoBase2POD90: '0',
-        empenoBase10POD90: '',
         flechaMedidaPOD90: '0',
-        variacaoFlechaBase3POD90: '0',
+/*         variacaoBitolaBase5POD90: '0',
+        empenoBase2POD90: '0',
+        empenoBase10POD90: '0',
+        variacaoFlechaBase3POD90: '0', */
 
-        estacaCadaMetro91: '21',
+        // estacaCadaMetro91: '21',
         bitolaPasseioPOD91: '0',
-        variacaoBitolaBase5POD91: '0',
         superelevacaoRecalquePOD91: '0',
-        empenoBase2POD91: '0',
-        empenoBase10POD91: '',
         flechaMedidaPOD91: '0',
-        variacaoFlechaBase3POD91: '0',
+/*         variacaoBitolaBase5POD91: '0',
+        empenoBase2POD91: '0',
+        empenoBase10POD91: '0',
+        variacaoFlechaBase3POD91: '0', */
 
-        estacaCadaMetro92: '22',
+        // estacaCadaMetro92: '22',
         bitolaPasseioPOD92: '0',
-        variacaoBitolaBase5POD92: '0',
         superelevacaoRecalquePOD92: '0',
-        empenoBase2POD92: '0',
-        empenoBase10POD92: '',
         flechaMedidaPOD92: '0',
-        variacaoFlechaBase3POD92: '0',
+/*         variacaoBitolaBase5POD92: '0',
+        empenoBase2POD92: '0',
+        empenoBase10POD92: '0',
+        variacaoFlechaBase3POD92: '0', */
 
-        estacaCadaMetro93: '23',
+        // estacaCadaMetro93: '23',
         bitolaPasseioPOD93: '0',
-        variacaoBitolaBase5POD93: '0',
         superelevacaoRecalquePOD93: '0',
-        empenoBase2POD93: '0',
-        empenoBase10POD93: '',
         flechaMedidaPOD93: '0',
-        variacaoFlechaBase3POD93: '0',
+/*         variacaoBitolaBase5POD93: '0',
+        empenoBase2POD93: '0',
+        empenoBase10POD93: '0',
+        variacaoFlechaBase3POD93: '0', */
 
-        estacaCadaMetro94: '24',
+        // estacaCadaMetro94: '24',
         bitolaPasseioPOD94: '0',
-        variacaoBitolaBase5POD94: '0',
         superelevacaoRecalquePOD94: '0',
-        empenoBase2POD94: '0',
-        empenoBase10POD94: '',
         flechaMedidaPOD94: '0',
-        variacaoFlechaBase3POD94: '0',
+/*         variacaoBitolaBase5POD94: '0',
+        empenoBase2POD94: '0',
+        empenoBase10POD94: '0',
+        variacaoFlechaBase3POD94: '0', */
 
-        estacaCadaMetro95: '25',
+        // estacaCadaMetro95: '25',
         bitolaPasseioPOD95: '0',
-        variacaoBitolaBase5POD95: '0',
         superelevacaoRecalquePOD95: '0',
-        empenoBase2POD95: '0',
-        empenoBase10POD95: '',
         flechaMedidaPOD95: '0',
-        variacaoFlechaBase3POD95: '0',
+/*         variacaoBitolaBase5POD95: '0',
+        empenoBase2POD95: '0',
+        empenoBase10POD95: '0',
+        variacaoFlechaBase3POD95: '0', */
 
-        estacaCadaMetro96: '26',
+        // estacaCadaMetro96: '26',
         bitolaPasseioPOD96: '0',
-        variacaoBitolaBase5POD96: '0',
         superelevacaoRecalquePOD96: '0',
-        empenoBase2POD96: '0',
-        empenoBase10POD96: '',
         flechaMedidaPOD96: '0',
-        variacaoFlechaBase3POD96: '0',
+/*         variacaoBitolaBase5POD96: '0',
+        empenoBase2POD96: '0',
+        empenoBase10POD96: '0',
+        variacaoFlechaBase3POD96: '0', */
 
-        estacaCadaMetro97: '27',
+        // estacaCadaMetro97: '27',
         bitolaPasseioPOD97: '0',
-        variacaoBitolaBase5POD97: '0',
         superelevacaoRecalquePOD97: '0',
-        empenoBase2POD97: '0',
-        empenoBase10POD97: '',
         flechaMedidaPOD97: '0',
-        variacaoFlechaBase3POD97: '0',
+/*         variacaoBitolaBase5POD97: '0',
+        empenoBase2POD97: '0',
+        empenoBase10POD97: '0',
+        variacaoFlechaBase3POD97: '0', */
 
-        estacaCadaMetro98: '28',
+        // estacaCadaMetro98: '28',
         bitolaPasseioPOD98: '0',
-        variacaoBitolaBase5POD98: '0',
         superelevacaoRecalquePOD98: '0',
-        empenoBase2POD98: '0',
-        empenoBase10POD98: '',
         flechaMedidaPOD98: '0',
-        variacaoFlechaBase3POD98: '0',
+/*         variacaoBitolaBase5POD98: '0',
+        empenoBase2POD98: '0',
+        empenoBase10POD98: '0',
+        variacaoFlechaBase3POD98: '0', */
 
-        estacaCadaMetro99: '29',
+        // estacaCadaMetro99: '29',
         bitolaPasseioPOD99: '0',
-        variacaoBitolaBase5POD99: '0',
         superelevacaoRecalquePOD99: '0',
-        empenoBase2POD99: '0',
-        empenoBase10POD99: '',
         flechaMedidaPOD99: '0',
-        variacaoFlechaBase3POD99: '0',
+/*         variacaoBitolaBase5POD99: '0',
+        empenoBase2POD99: '0',
+        empenoBase10POD99: '0',
+        variacaoFlechaBase3POD99: '0', */
 
-        estacaCadaMetro100: '30',
+        // estacaCadaMetro100: '30',
         bitolaPasseioPOD100: '0',
-        variacaoBitolaBase5POD100: '0',
         superelevacaoRecalquePOD100: '0',
-        empenoBase2POD100: '0',
-        empenoBase10POD100: '',
         flechaMedidaPOD100: '0',
-        variacaoFlechaBase3POD100: '0'
+/*         variacaoBitolaBase5POD100: '0',
+        empenoBase2POD100: '0',
+        empenoBase10POD100: '0',
+        variacaoFlechaBase3POD100: '0' */
 
 
 	});	
@@ -1272,914 +1272,914 @@ export default function DadosVia(props) {
 
 		
 
-			estacaCadaMetro: '-70',
-			bitolaPasseioPOD: '0',
-			variacaoBitolaBase5POD: '0',
-			superelevacaoRecalquePOD: '0',
-			empenoBase2POD: '0',
-			empenoBase10POD: '',
-			flechaMedidaPOD: '0',
-			variacaoFlechaBase3POD: '0',
-			
-			estacaCadaMetro1: '-69',
-			bitolaPasseioPOD1: '0',
-			variacaoBitolaBase5POD1: '0',
-			superelevacaoRecalquePOD1: '0',
-			empenoBase2POD1: '0',
-			empenoBase10POD1: '',
-			flechaMedidaPOD1: '0',
-			variacaoFlechaBase3POD1: '0',
-
-			estacaCadaMetro2: '-68',
-			bitolaPasseioPOD2: '0',
-			variacaoBitolaBase5POD2: '0',
-			superelevacaoRecalquePOD2: '0',
-			empenoBase2POD2: '0',
-			empenoBase10POD2: '',
-			flechaMedidaPOD2: '0',
-			variacaoFlechaBase3POD2: '0',
-
-			estacaCadaMetro3: '-67',
-			bitolaPasseioPOD3: '0',
-			variacaoBitolaBase5POD3: '0',
-			superelevacaoRecalquePOD3: '0',
-			empenoBase2POD3: '0',
-			empenoBase10POD3: '',
-			flechaMedidaPOD3: '0',
-			variacaoFlechaBase3POD3: '0',
-
-			estacaCadaMetro4: '-66',
-			bitolaPasseioPOD4: '0',
-			variacaoBitolaBase5POD4: '0',
-			superelevacaoRecalquePOD4: '0',
-			empenoBase2POD4: '0',
-			empenoBase10POD4: '',
-			flechaMedidaPOD4: '0',
-			variacaoFlechaBase3POD4: '0',
-			
-			estacaCadaMetro5: '-65',
-			bitolaPasseioPOD5: '0',
-			variacaoBitolaBase5POD5: '0',
-			superelevacaoRecalquePOD5: '0',
-			empenoBase2POD5: '0',
-			empenoBase10POD5: '',
-			flechaMedidaPOD5: '0',
-			variacaoFlechaBase3POD5: '0',
-
-			estacaCadaMetro6: '-64',
-			bitolaPasseioPOD6: '0',
-			variacaoBitolaBase5POD6: '0',
-			superelevacaoRecalquePOD6: '0',
-			empenoBase2POD6: '0',
-			empenoBase10POD6: '',
-			flechaMedidaPOD6: '0',
-			variacaoFlechaBase3POD6: '0',
-
-			estacaCadaMetro7: '-63',
-			bitolaPasseioPOD7: '0',
-			variacaoBitolaBase5POD7: '0',
-			superelevacaoRecalquePOD7: '0',
-			empenoBase2POD7: '0',
-			empenoBase10POD7: '',
-			flechaMedidaPOD7: '0',
-			variacaoFlechaBase3POD7: '0',
-
-			estacaCadaMetro8: '-62',
-			bitolaPasseioPOD8: '0',
-			variacaoBitolaBase5POD8: '0',
-			superelevacaoRecalquePOD8: '0',
-			empenoBase2POD8: '0',
-			empenoBase10POD8: '',
-			flechaMedidaPOD8: '0',
-			variacaoFlechaBase3POD8: '0',
-
-			estacaCadaMetro9: '-61',
-			bitolaPasseioPOD9: '0',
-			variacaoBitolaBase5POD9: '0',
-			superelevacaoRecalquePOD9: '0',
-			empenoBase2POD9: '0',
-			empenoBase10POD9: '',
-			flechaMedidaPOD9: '0',
-			variacaoFlechaBase3POD9: '0',
-
-			estacaCadaMetro10: '-60',
-			bitolaPasseioPOD10: '0',
-			variacaoBitolaBase5POD10: '0',
-			superelevacaoRecalquePOD10: '0',
-			empenoBase2POD10: '0',
-			empenoBase10POD10: '',
-			flechaMedidaPOD10: '0',
-			variacaoFlechaBase3POD10: '0',
-
-			estacaCadaMetro11: '-59',
-			bitolaPasseioPOD11: '0',
-			variacaoBitolaBase5POD11: '0',
-			superelevacaoRecalquePOD11: '0',
-			empenoBase2POD11: '0',
-			empenoBase10POD11: '',
-			flechaMedidaPOD11: '0',
-			variacaoFlechaBase3POD11: '0',
-			
-			estacaCadaMetro12: '-58',
-			bitolaPasseioPOD12: '0',
-			variacaoBitolaBase5POD12: '0',
-			superelevacaoRecalquePOD12: '0',
-			empenoBase2POD12: '0',
-			empenoBase10POD12: '',
-			flechaMedidaPOD12: '0',
-			variacaoFlechaBase3POD12: '0',
-			
-			estacaCadaMetro13: '-57',
-			bitolaPasseioPOD13: '0',
-			variacaoBitolaBase5POD13: '0',
-			superelevacaoRecalquePOD13: '0',
-			empenoBase2POD13: '0',
-			empenoBase10POD13: '',
-			flechaMedidaPOD13: '0',
-			variacaoFlechaBase3POD13: '0',
-
-			estacaCadaMetro14: '-56',
-			bitolaPasseioPOD14: '0',
-			variacaoBitolaBase5POD14: '0',
-			superelevacaoRecalquePOD14: '0',
-			empenoBase2POD14: '0',
-			empenoBase10POD14: '',
-			flechaMedidaPOD14: '0',
-			variacaoFlechaBase3POD14: '0',
-
-			estacaCadaMetro15: '-55',
-			bitolaPasseioPOD15: '0',
-			variacaoBitolaBase5POD15: '0',
-			superelevacaoRecalquePOD15: '0',
-			empenoBase2POD15: '0',
-			empenoBase10POD15: '',
-			flechaMedidaPOD15: '0',
-			variacaoFlechaBase3POD15: '0',
-
-			estacaCadaMetro16: '-54',
-			bitolaPasseioPOD16: '0',
-			variacaoBitolaBase5POD16: '0',
-			superelevacaoRecalquePOD16: '0',
-			empenoBase2POD16: '0',
-			empenoBase10POD16: '',
-			flechaMedidaPOD16: '0',
-			variacaoFlechaBase3POD16: '0',
-
-			estacaCadaMetro17: '-53',
-			bitolaPasseioPOD17: '0',
-			variacaoBitolaBase5POD17: '0',
-			superelevacaoRecalquePOD17: '0',
-			empenoBase2POD17: '0',
-			empenoBase10POD17: '',
-			flechaMedidaPOD17: '0',
-			variacaoFlechaBase3POD17: '0',
-
-			estacaCadaMetro18: '-52',
-			bitolaPasseioPOD18: '0',
-			variacaoBitolaBase5POD18: '0',
-			superelevacaoRecalquePOD18: '0',
-			empenoBase2POD18: '0',
-			empenoBase10POD18: '',
-			flechaMedidaPOD18: '0',
-			variacaoFlechaBase3POD18: '0',
-
-			estacaCadaMetro19: '-51',
-			bitolaPasseioPOD19: '0',
-			variacaoBitolaBase5POD19: '0',
-			superelevacaoRecalquePOD19: '0',
-			empenoBase2POD19: '0',
-			empenoBase10POD19: '',
-			flechaMedidaPOD19: '0',
-			variacaoFlechaBase3POD19: '0',
-
-			estacaCadaMetro20: '-50',
-			bitolaPasseioPOD20: '0',
-			variacaoBitolaBase5POD20: '0',
-			superelevacaoRecalquePOD20: '0',
-			empenoBase2POD20: '0',
-			empenoBase10POD20: '',
-			flechaMedidaPOD20: '0',
-			variacaoFlechaBase3POD20: '0',
-
-			estacaCadaMetro21: '-49',
-			bitolaPasseioPOD21: '0',
-			variacaoBitolaBase5POD21: '0',
-			superelevacaoRecalquePOD21: '0',
-			empenoBase2POD21: '0',
-			empenoBase10POD21: '',
-			flechaMedidaPOD21: '0',
-			variacaoFlechaBase3POD21: '0',
-
-			estacaCadaMetro22: '-48',
-			bitolaPasseioPOD22: '0',
-			variacaoBitolaBase5POD22: '0',
-			superelevacaoRecalquePOD22: '0',
-			empenoBase2POD22: '0',
-			empenoBase10POD22: '',
-			flechaMedidaPOD22: '0',
-			variacaoFlechaBase3POD22: '0',
-
-			estacaCadaMetro23: '-47',
-			bitolaPasseioPOD23: '0',
-			variacaoBitolaBase5POD23: '0',
-			superelevacaoRecalquePOD23: '0',
-			empenoBase2POD23: '0',
-			empenoBase10POD23: '',
-			flechaMedidaPOD23: '0',
-			variacaoFlechaBase3POD23: '0',
-
-			estacaCadaMetro24: '-46',
-			bitolaPasseioPOD24: '0',
-			variacaoBitolaBase5POD24: '0',
-			superelevacaoRecalquePOD24: '0',
-			empenoBase2POD24: '0',
-			empenoBase10POD24: '',
-			flechaMedidaPOD24: '0',
-			variacaoFlechaBase3POD24: '0',
-
-			estacaCadaMetro25: '-45',
-			bitolaPasseioPOD25: '0',
-			variacaoBitolaBase5POD25: '0',
-			superelevacaoRecalquePOD25: '0',
-			empenoBase2POD25: '0',
-			empenoBase10POD25: '',
-			flechaMedidaPOD25: '0',
-			variacaoFlechaBase3POD25: '0',
-
-			estacaCadaMetro26: '-44',
-			bitolaPasseioPOD26: '0',
-			variacaoBitolaBase5POD26: '0',
-			superelevacaoRecalquePOD26: '0',
-			empenoBase2POD26: '0',
-			empenoBase10POD26: '',
-			flechaMedidaPOD26: '0',
-			variacaoFlechaBase3POD26: '0',
-
-			estacaCadaMetro27: '-43',
-			bitolaPasseioPOD27: '0',
-			variacaoBitolaBase5POD27: '0',
-			superelevacaoRecalquePOD27: '0',
-			empenoBase2POD27: '0',
-			empenoBase10POD27: '',
-			flechaMedidaPOD27: '0',
-			variacaoFlechaBase3POD27: '0',
-
-			estacaCadaMetro28: '-42',
-			bitolaPasseioPOD28: '0',
-			variacaoBitolaBase5POD28: '0',
-			superelevacaoRecalquePOD28: '0',
-			empenoBase2POD28: '0',
-			empenoBase10POD28: '',
-			flechaMedidaPOD28: '0',
-			variacaoFlechaBase3POD28: '0',
-
-			estacaCadaMetro29: '-41',
-			bitolaPasseioPOD29: '0',
-			variacaoBitolaBase5POD29: '0',
-			superelevacaoRecalquePOD29: '0',
-			empenoBase2POD29: '0',
-			empenoBase10POD29: '',
-			flechaMedidaPOD29: '0',
-			variacaoFlechaBase3POD29: '0',
-
-			estacaCadaMetro30: '-40',
-			bitolaPasseioPOD30: '0',
-			variacaoBitolaBase5POD30: '0',
-			superelevacaoRecalquePOD30: '0',
-			empenoBase2POD30: '0',
-			empenoBase10POD30: '',
-			flechaMedidaPOD30: '0',
-			variacaoFlechaBase3POD30: '0',
-
-			estacaCadaMetro31: '-39',
-			bitolaPasseioPOD31: '0',
-			variacaoBitolaBase5POD31: '0',
-			superelevacaoRecalquePOD31: '0',
-			empenoBase2POD31: '0',
-			empenoBase10POD31: '',
-			flechaMedidaPOD31: '0',
-			variacaoFlechaBase3POD31: '0',
-
-			estacaCadaMetro32: '-38',
-			bitolaPasseioPOD32: '0',
-			variacaoBitolaBase5POD32: '0',
-			superelevacaoRecalquePOD32: '0',
-			empenoBase2POD32: '0',
-			empenoBase10POD32: '',
-			flechaMedidaPOD32: '0',
-			variacaoFlechaBase3POD32: '0',
-
-			estacaCadaMetro33: '-37',
-			bitolaPasseioPOD33: '0',
-			variacaoBitolaBase5POD33: '0',
-			superelevacaoRecalquePOD33: '0',
-			empenoBase2POD33: '0',
-			empenoBase10POD33: '',
-			flechaMedidaPOD33: '0',
-			variacaoFlechaBase3POD33: '0',
-
-			estacaCadaMetro34: '-36',
-			bitolaPasseioPOD34: '0',
-			variacaoBitolaBase5POD34: '0',
-			superelevacaoRecalquePOD34: '0',
-			empenoBase2POD34: '0',
-			empenoBase10POD34: '',
-			flechaMedidaPOD34: '0',
-			variacaoFlechaBase3POD34: '0',
-
-			estacaCadaMetro35: '-35',
-			bitolaPasseioPOD35: '0',
-			variacaoBitolaBase5POD35: '0',
-			superelevacaoRecalquePOD35: '0',
-			empenoBase2POD35: '0',
-			empenoBase10POD35: '',
-			flechaMedidaPOD35: '0',
-			variacaoFlechaBase3POD35: '0',
-
-			estacaCadaMetro36: '-34',
-			bitolaPasseioPOD36: '0',
-			variacaoBitolaBase5POD36: '0',
-			superelevacaoRecalquePOD36: '0',
-			empenoBase2POD36: '0',
-			empenoBase10POD36: '',
-			flechaMedidaPOD36: '0',
-			variacaoFlechaBase3POD36: '0',
-
-			estacaCadaMetro37: '-33',
-			bitolaPasseioPOD37: '0',
-			variacaoBitolaBase5POD37: '0',
-			superelevacaoRecalquePOD37: '0',
-			empenoBase2POD37: '0',
-			empenoBase10POD37: '',
-			flechaMedidaPOD37: '0',
-			variacaoFlechaBase3POD37: '0',
-
-			estacaCadaMetro38: '-32',
-			bitolaPasseioPOD38: '0',
-			variacaoBitolaBase5POD38: '0',
-			superelevacaoRecalquePOD38: '0',
-			empenoBase2POD38: '0',
-			empenoBase10POD38: '',
-			flechaMedidaPOD38: '0',
-			variacaoFlechaBase3POD38: '0',
-
-			estacaCadaMetro39: '-31',
-			bitolaPasseioPOD39: '0',
-			variacaoBitolaBase5POD39: '0',
-			superelevacaoRecalquePOD39: '0',
-			empenoBase2POD39: '0',
-			empenoBase10POD39: '',
-			flechaMedidaPOD39: '0',
-			variacaoFlechaBase3POD39: '0',
-
-			estacaCadaMetro40: '-30',
-			bitolaPasseioPOD40: '0',
-			variacaoBitolaBase5POD40: '0',
-			superelevacaoRecalquePOD40: '0',
-			empenoBase2POD40: '0',
-			empenoBase10POD40: '',
-			flechaMedidaPOD40: '0',
-			variacaoFlechaBase3POD40: '0',
-
-			estacaCadaMetro41: '-29',
-			bitolaPasseioPOD41: '0',
-			variacaoBitolaBase5POD41: '0',
-			superelevacaoRecalquePOD41: '0',
-			empenoBase2POD41: '0',
-			empenoBase10POD41: '',
-			flechaMedidaPOD41: '0',
-			variacaoFlechaBase3POD41: '0',
-
-			estacaCadaMetro42: '-28',
-			bitolaPasseioPOD42: '0',
-			variacaoBitolaBase5POD42: '0',
-			superelevacaoRecalquePOD42: '0',
-			empenoBase2POD42: '0',
-			empenoBase10POD42: '',
-			flechaMedidaPOD42: '0',
-			variacaoFlechaBase3POD42: '0',
-
-			estacaCadaMetro43: '-27',
-			bitolaPasseioPOD43: '0',
-			variacaoBitolaBase5POD43: '0',
-			superelevacaoRecalquePOD43: '0',
-			empenoBase2POD43: '0',
-			empenoBase10POD43: '',
-			flechaMedidaPOD43: '0',
-			variacaoFlechaBase3POD43: '0',
-
-			estacaCadaMetro44: '-26',
-			bitolaPasseioPOD44: '0',
-			variacaoBitolaBase5POD44: '0',
-			superelevacaoRecalquePOD44: '0',
-			empenoBase2POD44: '0',
-			empenoBase10POD44: '',
-			flechaMedidaPOD44: '0',
-			variacaoFlechaBase3POD44: '0',
-
-			estacaCadaMetro45: '-25',
-			bitolaPasseioPOD45: '0',
-			variacaoBitolaBase5POD45: '0',
-			superelevacaoRecalquePOD45: '0',
-			empenoBase2POD45: '0',
-			empenoBase10POD45: '',
-			flechaMedidaPOD45: '0',
-			variacaoFlechaBase3POD45: '0',
-
-			estacaCadaMetro46: '-24',
-			bitolaPasseioPOD46: '0',
-			variacaoBitolaBase5POD46: '0',
-			superelevacaoRecalquePOD46: '0',
-			empenoBase2POD46: '0',
-			empenoBase10POD46: '',
-			flechaMedidaPOD46: '0',
-			variacaoFlechaBase3POD46: '0',
-
-			estacaCadaMetro47: '-23',
-			bitolaPasseioPOD47: '0',
-			variacaoBitolaBase5POD47: '0',
-			superelevacaoRecalquePOD47: '0',
-			empenoBase2POD47: '0',
-			empenoBase10POD47: '',
-			flechaMedidaPOD47: '0',
-			variacaoFlechaBase3POD47: '0',
-
-			estacaCadaMetro48: '-22',
-			bitolaPasseioPOD48: '0',
-			variacaoBitolaBase5POD48: '0',
-			superelevacaoRecalquePOD48: '0',
-			empenoBase2POD48: '0',
-			empenoBase10POD48: '',
-			flechaMedidaPOD48: '0',
-			variacaoFlechaBase3POD48: '0',
-
-			estacaCadaMetro49: '-21',
-			bitolaPasseioPOD49: '0',
-			variacaoBitolaBase5POD49: '0',
-			superelevacaoRecalquePOD49: '0',
-			empenoBase2POD49: '0',
-			empenoBase10POD49: '',
-			flechaMedidaPOD49: '0',
-			variacaoFlechaBase3POD49: '0',
-
-			estacaCadaMetro50: '-20',
-			bitolaPasseioPOD50: '0',
-			variacaoBitolaBase5POD50: '0',
-			superelevacaoRecalquePOD50: '0',
-			empenoBase2POD50: '0',
-			empenoBase10POD50: '',
-			flechaMedidaPOD50: '0',
-			variacaoFlechaBase3POD50: '0',
-
-			estacaCadaMetro51: '-19',
-			bitolaPasseioPOD51: '0',
-			variacaoBitolaBase5POD51: '0',
-			superelevacaoRecalquePOD51: '0',
-			empenoBase2POD51: '0',
-			empenoBase10POD51: '',
-			flechaMedidaPOD51: '0',
-			variacaoFlechaBase3POD51: '0',
-
-			estacaCadaMetro52: '-18',
-			bitolaPasseioPOD52: '0',
-			variacaoBitolaBase5POD52: '0',
-			superelevacaoRecalquePOD52: '0',
-			empenoBase2POD52: '0',
-			empenoBase10POD52: '',
-			flechaMedidaPOD52: '0',
-			variacaoFlechaBase3POD52: '0',
-
-			estacaCadaMetro53: '-17',
-			bitolaPasseioPOD53: '0',
-			variacaoBitolaBase5POD53: '0',
-			superelevacaoRecalquePOD53: '0',
-			empenoBase2POD53: '0',
-			empenoBase10POD53: '',
-			flechaMedidaPOD53: '0',
-			variacaoFlechaBase3POD53: '0',
-
-			estacaCadaMetro54: '-16',
-			bitolaPasseioPOD54: '0',
-			variacaoBitolaBase5POD54: '0',
-			superelevacaoRecalquePOD54: '0',
-			empenoBase2POD54: '0',
-			empenoBase10POD54: '',
-			flechaMedidaPOD54: '0',
-			variacaoFlechaBase3POD54: '0',
-
-			estacaCadaMetro55: '-15',
-			bitolaPasseioPOD55: '0',
-			variacaoBitolaBase5POD55: '0',
-			superelevacaoRecalquePOD55: '0',
-			empenoBase2POD55: '0',
-			empenoBase10POD55: '',
-			flechaMedidaPOD55: '0',
-			variacaoFlechaBase3POD55: '0',
-
-			estacaCadaMetro56: '-14',
-			bitolaPasseioPOD56: '0',
-			variacaoBitolaBase5POD56: '0',
-			superelevacaoRecalquePOD56: '0',
-			empenoBase2POD56: '0',
-			empenoBase10POD56: '',
-			flechaMedidaPOD56: '0',
-			variacaoFlechaBase3POD56: '0',
-
-			estacaCadaMetro57: '-13',
-			bitolaPasseioPOD57: '0',
-			variacaoBitolaBase5POD57: '0',
-			superelevacaoRecalquePOD57: '0',
-			empenoBase2POD57: '0',
-			empenoBase10POD57: '',
-			flechaMedidaPOD57: '0',
-			variacaoFlechaBase3POD57: '0',
-
-			estacaCadaMetro58: '-12',
-			bitolaPasseioPOD58: '0',
-			variacaoBitolaBase5POD58: '0',
-			superelevacaoRecalquePOD58: '0',
-			empenoBase2POD58: '0',
-			empenoBase10POD58: '',
-			flechaMedidaPOD58: '0',
-			variacaoFlechaBase3POD58: '0',
-
-			estacaCadaMetro59: '-11',
-			bitolaPasseioPOD59: '0',
-			variacaoBitolaBase5POD59: '0',
-			superelevacaoRecalquePOD59: '0',
-			empenoBase2POD59: '0',
-			empenoBase10POD59: '',
-			flechaMedidaPOD59: '0',
-			variacaoFlechaBase3POD59: '0',
-
-			estacaCadaMetro60: '-10',
-			bitolaPasseioPOD60: '0',
-			variacaoBitolaBase5POD60: '0',
-			superelevacaoRecalquePOD60: '0',
-			empenoBase2POD60: '0',
-			empenoBase10POD60: '',
-			flechaMedidaPOD60: '0',
-			variacaoFlechaBase3POD60: '0',
-
-			estacaCadaMetro61: '-9',
-			bitolaPasseioPOD61: '0',
-			variacaoBitolaBase5POD61: '0',
-			superelevacaoRecalquePOD61: '0',
-			empenoBase2POD61: '0',
-			empenoBase10POD61: '',
-			flechaMedidaPOD61: '0',
-			variacaoFlechaBase3POD61: '0',
-
-			estacaCadaMetro62: '-8',
-			bitolaPasseioPOD62: '0',
-			variacaoBitolaBase5POD62: '0',
-			superelevacaoRecalquePOD62: '0',
-			empenoBase2POD62: '0',
-			empenoBase10POD62: '',
-			flechaMedidaPOD62: '0',
-			variacaoFlechaBase3POD62: '0',
-
-			estacaCadaMetro63: '-7',
-			bitolaPasseioPOD63: '0',
-			variacaoBitolaBase5POD63: '0',
-			superelevacaoRecalquePOD63: '0',
-			empenoBase2POD63: '0',
-			empenoBase10POD63: '',
-			flechaMedidaPOD63: '0',
-			variacaoFlechaBase3POD63: '0',
-
-			estacaCadaMetro64: '-6',
-			bitolaPasseioPOD64: '0',
-			variacaoBitolaBase5POD64: '0',
-			superelevacaoRecalquePOD64: '0',
-			empenoBase2POD64: '0',
-			empenoBase10POD64: '',
-			flechaMedidaPOD64: '0',
-			variacaoFlechaBase3POD64: '0',
-
-			estacaCadaMetro65: '-5',
-			bitolaPasseioPOD65: '0',
-			variacaoBitolaBase5POD65: '0',
-			superelevacaoRecalquePOD65: '0',
-			empenoBase2POD65: '0',
-			empenoBase10POD65: '',
-			flechaMedidaPOD65: '0',
-			variacaoFlechaBase3POD65: '0',
-
-			estacaCadaMetro66: '-4',
-			bitolaPasseioPOD66: '0',
-			variacaoBitolaBase5POD66: '0',
-			superelevacaoRecalquePOD66: '0',
-			empenoBase2POD66: '0',
-			empenoBase10POD66: '',
-			flechaMedidaPOD66: '0',
-			variacaoFlechaBase3POD66: '0',
-
-			estacaCadaMetro67: '-3',
-			bitolaPasseioPOD67: '0',
-			variacaoBitolaBase5POD67: '0',
-			superelevacaoRecalquePOD67: '0',
-			empenoBase2POD67: '0',
-			empenoBase10POD67: '',
-			flechaMedidaPOD67: '0',
-			variacaoFlechaBase3POD67: '0',
-
-			estacaCadaMetro68: '-2',
-			bitolaPasseioPOD68: '0',
-			variacaoBitolaBase5POD68: '0',
-			superelevacaoRecalquePOD68: '0',
-			empenoBase2POD68: '0',
-			empenoBase10POD68: '',
-			flechaMedidaPOD68: '0',
-			variacaoFlechaBase3POD68: '0',
-
-			estacaCadaMetro69: '-1',
-			bitolaPasseioPOD69: '0',
-			variacaoBitolaBase5POD69: '0',
-			superelevacaoRecalquePOD69: '0',
-			empenoBase2POD69: '0',
-			empenoBase10POD69: '',
-			flechaMedidaPOD69: '0',
-			variacaoFlechaBase3POD69: '0',
-
-			estacaCadaMetro70: '0',
-			bitolaPasseioPOD70: '0',
-			variacaoBitolaBase5POD70: '0',
-			superelevacaoRecalquePOD70: '0',
-			empenoBase2POD70: '0',
-			empenoBase10POD70: '',
-			flechaMedidaPOD70: '0',
-			variacaoFlechaBase3POD70: '0',
-
-			estacaCadaMetro71: '1',
-			bitolaPasseioPOD71: '0',
-			variacaoBitolaBase5POD71: '0',
-			superelevacaoRecalquePOD71: '0',
-			empenoBase2POD71: '0',
-			empenoBase10POD71: '0',
-			flechaMedidaPOD71: '0',
-			variacaoFlechaBase3POD71: '0',
-
-			estacaCadaMetro72: '2',
-			bitolaPasseioPOD72: '0',
-			variacaoBitolaBase5POD72: '0',
-			superelevacaoRecalquePOD72: '0',
-			empenoBase2POD72: '0',
-			empenoBase10POD72: '',
-			flechaMedidaPOD72: '0',
-			variacaoFlechaBase3POD72: '0',
-
-			estacaCadaMetro73: '3',
-			bitolaPasseioPOD73: '0',
-			variacaoBitolaBase5POD73: '0',
-			superelevacaoRecalquePOD73: '0',
-			empenoBase2POD73: '0',
-			empenoBase10POD73: '',
-			flechaMedidaPOD73: '0',
-			variacaoFlechaBase3POD73: '0',
-
-			estacaCadaMetro74: '4',
-			bitolaPasseioPOD74: '0',
-			variacaoBitolaBase5POD74: '0',
-			superelevacaoRecalquePOD74: '0',
-			empenoBase2POD74: '0',
-			empenoBase10POD74: '',
-			flechaMedidaPOD74: '0',
-			variacaoFlechaBase3POD74: '0',
-
-			estacaCadaMetro75: '5',
-			bitolaPasseioPOD75: '0',
-			variacaoBitolaBase5POD75: '0',
-			superelevacaoRecalquePOD75: '0',
-			empenoBase2POD75: '0',
-			empenoBase10POD75: '',
-			flechaMedidaPOD75: '0',
-			variacaoFlechaBase3POD75: '0',
-
-			estacaCadaMetro76: '6',
-			bitolaPasseioPOD76: '0',
-			variacaoBitolaBase5POD76: '0',
-			superelevacaoRecalquePOD76: '0',
-			empenoBase2POD76: '0',
-			empenoBase10POD76: '',
-			flechaMedidaPOD76: '0',
-			variacaoFlechaBase3POD76: '0',
-
-			estacaCadaMetro77: '7',
-			bitolaPasseioPOD77: '0',
-			variacaoBitolaBase5POD77: '0',
-			superelevacaoRecalquePOD77: '0',
-			empenoBase2POD77: '0',
-			empenoBase10POD77: '',
-			flechaMedidaPOD77: '0',
-			variacaoFlechaBase3POD77: '0',
-
-			estacaCadaMetro78: '8',
-			bitolaPasseioPOD78: '0',
-			variacaoBitolaBase5POD78: '0',
-			superelevacaoRecalquePOD78: '0',
-			empenoBase2POD78: '0',
-			empenoBase10POD78: '',
-			flechaMedidaPOD78: '0',
-			variacaoFlechaBase3POD78: '0',
-
-			estacaCadaMetro79: '9',
-			bitolaPasseioPOD79: '0',
-			variacaoBitolaBase5POD79: '0',
-			superelevacaoRecalquePOD79: '0',
-			empenoBase2POD79: '0',
-			empenoBase10POD79: '',
-			flechaMedidaPOD79: '0',
-			variacaoFlechaBase3POD79: '0',
-
-			estacaCadaMetro80: '10',
-			bitolaPasseioPOD80: '0',
-			variacaoBitolaBase5POD80: '0',
-			superelevacaoRecalquePOD80: '0',
-			empenoBase2POD80: '0',
-			empenoBase10POD80: '',
-			flechaMedidaPOD80: '0',
-			variacaoFlechaBase3POD80: '0',
-
-			estacaCadaMetro81: '11',
-			bitolaPasseioPOD81: '0',
-			variacaoBitolaBase5POD81: '0',
-			superelevacaoRecalquePOD81: '0',
-			empenoBase2POD81: '0',
-			empenoBase10POD81: '',
-			flechaMedidaPOD81: '0',
-			variacaoFlechaBase3POD81: '0',
-
-			estacaCadaMetro82: '12',
-			bitolaPasseioPOD82: '0',
-			variacaoBitolaBase5POD82: '0',
-			superelevacaoRecalquePOD82: '0',
-			empenoBase2POD82: '0',
-			empenoBase10POD82: '',
-			flechaMedidaPOD82: '0',
-			variacaoFlechaBase3POD82: '0',
-
-			estacaCadaMetro83: '13',
-			bitolaPasseioPOD83: '0',
-			variacaoBitolaBase5POD83: '0',
-			superelevacaoRecalquePOD83: '0',
-			empenoBase2POD83: '0',
-			empenoBase10POD83: '',
-			flechaMedidaPOD83: '0',
-			variacaoFlechaBase3POD83: '0',
-
-			estacaCadaMetro84: '14',
-			bitolaPasseioPOD84: '0',
-			variacaoBitolaBase5POD84: '0',
-			superelevacaoRecalquePOD84: '0',
-			empenoBase2POD84: '0',
-			empenoBase10POD84: '',
-			flechaMedidaPOD84: '0',
-			variacaoFlechaBase3POD84: '0',
-
-			estacaCadaMetro85: '15',
-			bitolaPasseioPOD85: '0',
-			variacaoBitolaBase5POD85: '0',
-			superelevacaoRecalquePOD85: '0',
-			empenoBase2POD85: '0',
-			empenoBase10POD85: '',
-			flechaMedidaPOD85: '0',
-			variacaoFlechaBase3POD85: '0',
-
-			estacaCadaMetro86: '16',
-			bitolaPasseioPOD86: '0',
-			variacaoBitolaBase5POD86: '0',
-			superelevacaoRecalquePOD86: '0',
-			empenoBase2POD86: '0',
-			empenoBase10POD86: '',
-			flechaMedidaPOD86: '0',
-			variacaoFlechaBase3POD86: '0',
-
-			estacaCadaMetro87: '17',
-			bitolaPasseioPOD87: '0',
-			variacaoBitolaBase5POD87: '0',
-			superelevacaoRecalquePOD87: '0',
-			empenoBase2POD87: '0',
-			empenoBase10POD87: '',
-			flechaMedidaPOD87: '0',
-			variacaoFlechaBase3POD87: '0',
-
-			estacaCadaMetro88: '18',
-			bitolaPasseioPOD88: '0',
-			variacaoBitolaBase5POD88: '0',
-			superelevacaoRecalquePOD88: '0',
-			empenoBase2POD88: '0',
-			empenoBase10POD88: '',
-			flechaMedidaPOD88: '0',
-			variacaoFlechaBase3POD88: '0',
-
-			estacaCadaMetro89: '19',
-			bitolaPasseioPOD89: '0',
-			variacaoBitolaBase5POD89: '0',
-			superelevacaoRecalquePOD89: '0',
-			empenoBase2POD89: '0',
-			empenoBase10POD89: '',
-			flechaMedidaPOD89: '0',
-			variacaoFlechaBase3POD89: '0',
-
-			estacaCadaMetro90: '20',
-			bitolaPasseioPOD90: '0',
-			variacaoBitolaBase5POD90: '0',
-			superelevacaoRecalquePOD90: '0',
-			empenoBase2POD90: '0',
-			empenoBase10POD90: '',
-			flechaMedidaPOD90: '0',
-			variacaoFlechaBase3POD90: '0',
-
-			estacaCadaMetro91: '21',
-			bitolaPasseioPOD91: '0',
-			variacaoBitolaBase5POD91: '0',
-			superelevacaoRecalquePOD91: '0',
-			empenoBase2POD91: '0',
-			empenoBase10POD91: '',
-			flechaMedidaPOD91: '0',
-			variacaoFlechaBase3POD91: '0',
-
-			estacaCadaMetro92: '22',
-			bitolaPasseioPOD92: '0',
-			variacaoBitolaBase5POD92: '0',
-			superelevacaoRecalquePOD92: '0',
-			empenoBase2POD92: '0',
-			empenoBase10POD92: '',
-			flechaMedidaPOD92: '0',
-			variacaoFlechaBase3POD92: '0',
-
-			estacaCadaMetro93: '23',
-			bitolaPasseioPOD93: '0',
-			variacaoBitolaBase5POD93: '0',
-			superelevacaoRecalquePOD93: '0',
-			empenoBase2POD93: '0',
-			empenoBase10POD93: '',
-			flechaMedidaPOD93: '0',
-			variacaoFlechaBase3POD93: '0',
-
-			estacaCadaMetro94: '24',
-			bitolaPasseioPOD94: '0',
-			variacaoBitolaBase5POD94: '0',
-			superelevacaoRecalquePOD94: '0',
-			empenoBase2POD94: '0',
-			empenoBase10POD94: '',
-			flechaMedidaPOD94: '0',
-			variacaoFlechaBase3POD94: '0',
-
-			estacaCadaMetro95: '25',
-			bitolaPasseioPOD95: '0',
-			variacaoBitolaBase5POD95: '0',
-			superelevacaoRecalquePOD95: '0',
-			empenoBase2POD95: '0',
-			empenoBase10POD95: '',
-			flechaMedidaPOD95: '0',
-			variacaoFlechaBase3POD95: '0',
-
-			estacaCadaMetro96: '26',
-			bitolaPasseioPOD96: '0',
-			variacaoBitolaBase5POD96: '0',
-			superelevacaoRecalquePOD96: '0',
-			empenoBase2POD96: '0',
-			empenoBase10POD96: '',
-			flechaMedidaPOD96: '0',
-			variacaoFlechaBase3POD96: '0',
-
-			estacaCadaMetro97: '27',
-			bitolaPasseioPOD97: '0',
-			variacaoBitolaBase5POD97: '0',
-			superelevacaoRecalquePOD97: '0',
-			empenoBase2POD97: '0',
-			empenoBase10POD97: '',
-			flechaMedidaPOD97: '0',
-			variacaoFlechaBase3POD97: '0',
-
-			estacaCadaMetro98: '28',
-			bitolaPasseioPOD98: '0',
-			variacaoBitolaBase5POD98: '0',
-			superelevacaoRecalquePOD98: '0',
-			empenoBase2POD98: '0',
-			empenoBase10POD98: '',
-			flechaMedidaPOD98: '0',
-			variacaoFlechaBase3POD98: '0',
-
-			estacaCadaMetro99: '29',
-			bitolaPasseioPOD99: '0',
-			variacaoBitolaBase5POD99: '0',
-			superelevacaoRecalquePOD99: '0',
-			empenoBase2POD99: '0',
-			empenoBase10POD99: '',
-			flechaMedidaPOD99: '0',
-			variacaoFlechaBase3POD99: '0',
-
-			estacaCadaMetro100: '30',
-			bitolaPasseioPOD100: '0',
-			variacaoBitolaBase5POD100: '0',
-			superelevacaoRecalquePOD100: '0',
-			empenoBase2POD100: '0',
-			empenoBase10POD100: '',
-			flechaMedidaPOD100: '0',
-			variacaoFlechaBase3POD100: '0'
+		// estacaCadaMetro: '-70',
+        bitolaPasseioPOD: '0',
+        superelevacaoRecalquePOD: '0',
+        flechaMedidaPOD: '0',
+        /* variacaoBitolaBase5POD: '0',
+        empenoBase2POD: '0',
+        empenoBase10POD: '0',
+        variacaoFlechaBase3POD: '0', */
+        
+        // estacaCadaMetro1: '-69',
+        bitolaPasseioPOD1: '0',
+        superelevacaoRecalquePOD1: '0',
+        flechaMedidaPOD1: '0',
+        /* variacaoBitolaBase5POD1: '0',
+        empenoBase2POD1: '0',
+        empenoBase10POD1: '0',
+        variacaoFlechaBase3POD1: '0', */
+
+        // estacaCadaMetro2: '-68',
+        bitolaPasseioPOD2: '0',
+        superelevacaoRecalquePOD2: '0',
+        flechaMedidaPOD2: '0',
+/*         variacaoBitolaBase5POD2: '0',
+        empenoBase2POD2: '0',
+        empenoBase10POD2: '0',
+        variacaoFlechaBase3POD2: '0', */
+
+        // estacaCadaMetro3: '-67',
+        bitolaPasseioPOD3: '0',
+        superelevacaoRecalquePOD3: '0',
+        flechaMedidaPOD3: '0',
+/*         variacaoBitolaBase5POD3: '0',
+        empenoBase2POD3: '0',
+        empenoBase10POD3: '0',
+        variacaoFlechaBase3POD3: '0', */
+
+        // estacaCadaMetro4: '-66',
+        bitolaPasseioPOD4: '0',
+        superelevacaoRecalquePOD4: '0',
+        flechaMedidaPOD4: '0',
+/*         variacaoBitolaBase5POD4: '0',
+        empenoBase2POD4: '0',
+        empenoBase10POD4: '0',
+        variacaoFlechaBase3POD4: '0', */
+        
+        // estacaCadaMetro5: '-65',
+        bitolaPasseioPOD5: '0',
+        superelevacaoRecalquePOD5: '0',
+        flechaMedidaPOD5: '0',
+/*         variacaoBitolaBase5POD5: '0',
+        empenoBase2POD5: '0',
+        empenoBase10POD5: '0',
+        variacaoFlechaBase3POD5: '0', */
+
+        // estacaCadaMetro6: '-64',
+        bitolaPasseioPOD6: '0',
+        superelevacaoRecalquePOD6: '0',
+        flechaMedidaPOD6: '0',
+ /*        variacaoBitolaBase5POD6: '0',
+        empenoBase2POD6: '0',
+        empenoBase10POD6: '0',
+        variacaoFlechaBase3POD6: '0', */
+
+        // estacaCadaMetro7: '-63',
+        bitolaPasseioPOD7: '0',
+        superelevacaoRecalquePOD7: '0',
+        flechaMedidaPOD7: '0',
+/*         variacaoBitolaBase5POD7: '0',
+        empenoBase2POD7: '0',
+        empenoBase10POD7: '0',
+        variacaoFlechaBase3POD7: '0', */
+
+        // estacaCadaMetro8: '-62',
+        bitolaPasseioPOD8: '0',
+        superelevacaoRecalquePOD8: '0',
+        flechaMedidaPOD8: '0',
+/*         variacaoBitolaBase5POD8: '0',
+        empenoBase2POD8: '0',
+        empenoBase10POD8: '0',
+        variacaoFlechaBase3POD8: '0', */
+
+        // estacaCadaMetro9: '-61',
+        bitolaPasseioPOD9: '0',
+        superelevacaoRecalquePOD9: '0',
+        flechaMedidaPOD9: '0',
+/*         variacaoBitolaBase5POD9: '0',
+        empenoBase2POD9: '0',
+        empenoBase10POD9: '0',
+        variacaoFlechaBase3POD9: '0', */
+
+        // estacaCadaMetro10: '-60',
+        bitolaPasseioPOD10: '0',
+        superelevacaoRecalquePOD10: '0',
+        flechaMedidaPOD10: '0',
+/*         variacaoBitolaBase5POD10: '0',
+        empenoBase2POD10: '0',
+        empenoBase10POD10: '0',
+        variacaoFlechaBase3POD10: '0', */
+
+        // estacaCadaMetro11: '-59',
+        bitolaPasseioPOD11: '0',
+        superelevacaoRecalquePOD11: '0',
+        flechaMedidaPOD11: '0',
+/*         variacaoBitolaBase5POD11: '0',
+        empenoBase2POD11: '0',
+        empenoBase10POD11: '0',
+        variacaoFlechaBase3POD11: '0', */
+        
+        // estacaCadaMetro12: '-58',
+        bitolaPasseioPOD12: '0',
+        superelevacaoRecalquePOD12: '0',
+        flechaMedidaPOD12: '0',
+/*         variacaoBitolaBase5POD12: '0',
+        empenoBase2POD12: '0',
+        empenoBase10POD12: '0',
+        variacaoFlechaBase3POD12: '0', */
+        
+        // estacaCadaMetro13: '-57',
+        bitolaPasseioPOD13: '0',
+        superelevacaoRecalquePOD13: '0',
+        flechaMedidaPOD13: '0',
+/*         variacaoBitolaBase5POD13: '0',
+        empenoBase2POD13: '0',
+        empenoBase10POD13: '0',
+        variacaoFlechaBase3POD13: '0', */
+
+        // estacaCadaMetro14: '-56',
+        bitolaPasseioPOD14: '0',
+        superelevacaoRecalquePOD14: '0',
+        flechaMedidaPOD14: '0',
+/*         variacaoBitolaBase5POD14: '0',
+        empenoBase2POD14: '0',
+        empenoBase10POD14: '0',
+        variacaoFlechaBase3POD14: '0', */
+
+        // estacaCadaMetro15: '-55',
+        bitolaPasseioPOD15: '0',
+        superelevacaoRecalquePOD15: '0',
+        flechaMedidaPOD15: '0',
+ /*        variacaoBitolaBase5POD15: '0',
+        empenoBase2POD15: '0',
+        empenoBase10POD15: '0',
+        variacaoFlechaBase3POD15: '0', */
+
+        // estacaCadaMetro16: '-54',
+        bitolaPasseioPOD16: '0',
+        superelevacaoRecalquePOD16: '0',
+        flechaMedidaPOD16: '0',
+/*         variacaoBitolaBase5POD16: '0',
+        empenoBase2POD16: '0',
+        empenoBase10POD16: '0',
+        variacaoFlechaBase3POD16: '0', */
+
+        // estacaCadaMetro17: '-53',
+        bitolaPasseioPOD17: '0',
+        superelevacaoRecalquePOD17: '0',
+        flechaMedidaPOD17: '0',
+/*         variacaoBitolaBase5POD17: '0',
+        empenoBase2POD17: '0',
+        empenoBase10POD17: '0',
+        variacaoFlechaBase3POD17: '0', */
+
+        // estacaCadaMetro18: '-52',
+        bitolaPasseioPOD18: '0',
+        superelevacaoRecalquePOD18: '0',
+        flechaMedidaPOD18: '0',
+/*         variacaoBitolaBase5POD18: '0',
+        empenoBase2POD18: '0',
+        empenoBase10POD18: '0',
+        variacaoFlechaBase3POD18: '0', */
+
+        // estacaCadaMetro19: '-51',
+        bitolaPasseioPOD19: '0',
+        superelevacaoRecalquePOD19: '0',
+        flechaMedidaPOD19: '0',
+/*         variacaoBitolaBase5POD19: '0',
+        empenoBase2POD19: '0',
+        empenoBase10POD19: '0',
+        variacaoFlechaBase3POD19: '0', */
+
+        // estacaCadaMetro20: '-50',
+        bitolaPasseioPOD20: '0',
+        superelevacaoRecalquePOD20: '0',
+        flechaMedidaPOD20: '0',
+ /*        variacaoBitolaBase5POD20: '0',
+        empenoBase2POD20: '0',
+        empenoBase10POD20: '0',
+        variacaoFlechaBase3POD20: '0', */
+
+        // estacaCadaMetro21: '-49',
+        bitolaPasseioPOD21: '0',
+        superelevacaoRecalquePOD21: '0',
+        flechaMedidaPOD21: '0',
+ /*        variacaoBitolaBase5POD21: '0',
+        empenoBase2POD21: '0',
+        empenoBase10POD21: '0',
+        variacaoFlechaBase3POD21: '0', */
+
+        // estacaCadaMetro22: '-48',
+        bitolaPasseioPOD22: '0',
+        superelevacaoRecalquePOD22: '0',
+        flechaMedidaPOD22: '0',
+/*         variacaoBitolaBase5POD22: '0',
+        empenoBase2POD22: '0',
+        empenoBase10POD22: '0',
+        variacaoFlechaBase3POD22: '0', */
+
+        // estacaCadaMetro23: '-47',
+        bitolaPasseioPOD23: '0',
+        superelevacaoRecalquePOD23: '0',
+        flechaMedidaPOD23: '0',
+/*         variacaoBitolaBase5POD23: '0',
+        empenoBase2POD23: '0',
+        empenoBase10POD23: '0',
+        variacaoFlechaBase3POD23: '0', */
+
+        // estacaCadaMetro24: '-46',
+        bitolaPasseioPOD24: '0',
+        superelevacaoRecalquePOD24: '0',
+        flechaMedidaPOD24: '0',
+/*         variacaoBitolaBase5POD24: '0',
+        empenoBase2POD24: '0',
+        empenoBase10POD24: '0',
+        variacaoFlechaBase3POD24: '0', */
+
+        // estacaCadaMetro25: '-45',
+        bitolaPasseioPOD25: '0',
+        superelevacaoRecalquePOD25: '0',
+        flechaMedidaPOD25: '0',
+/*         variacaoBitolaBase5POD25: '0',
+        empenoBase2POD25: '0',
+        empenoBase10POD25: '0',
+        variacaoFlechaBase3POD25: '0', */
+
+        // estacaCadaMetro26: '-44',
+        bitolaPasseioPOD26: '0',
+        superelevacaoRecalquePOD26: '0',
+        flechaMedidaPOD26: '0',
+/*         variacaoBitolaBase5POD26: '0',
+        empenoBase2POD26: '0',
+        empenoBase10POD26: '0',
+        variacaoFlechaBase3POD26: '0', */
+
+        // estacaCadaMetro27: '-43',
+        bitolaPasseioPOD27: '0',
+        superelevacaoRecalquePOD27: '0',
+        flechaMedidaPOD27: '0',
+/*         variacaoBitolaBase5POD27: '0',
+        empenoBase2POD27: '0',
+        empenoBase10POD27: '0',
+        variacaoFlechaBase3POD27: '0', */
+
+        // estacaCadaMetro28: '-42',
+        bitolaPasseioPOD28: '0',
+        superelevacaoRecalquePOD28: '0',
+        flechaMedidaPOD28: '0',
+/*         variacaoBitolaBase5POD28: '0',
+        empenoBase2POD28: '0',
+        empenoBase10POD28: '0',
+        variacaoFlechaBase3POD28: '0', */
+
+        // estacaCadaMetro29: '-41',
+        bitolaPasseioPOD29: '0',
+        superelevacaoRecalquePOD29: '0',
+        flechaMedidaPOD29: '0',
+/*         variacaoBitolaBase5POD29: '0',
+        empenoBase2POD29: '0',
+        empenoBase10POD29: '0',
+        variacaoFlechaBase3POD29: '0', */
+
+        // estacaCadaMetro30: '-40',
+        bitolaPasseioPOD30: '0',
+        superelevacaoRecalquePOD30: '0',
+        flechaMedidaPOD30: '0',
+/*         variacaoBitolaBase5POD30: '0',
+        empenoBase2POD30: '0',
+        empenoBase10POD30: '0',
+        variacaoFlechaBase3POD30: '0', */
+
+        // estacaCadaMetro31: '-39',
+        bitolaPasseioPOD31: '0',
+        superelevacaoRecalquePOD31: '0',
+        flechaMedidaPOD31: '0',
+/*         variacaoBitolaBase5POD31: '0',
+        empenoBase2POD31: '0',
+        empenoBase10POD31: '0',
+        variacaoFlechaBase3POD31: '0', */
+
+        // estacaCadaMetro32: '-38',
+        bitolaPasseioPOD32: '0',
+        superelevacaoRecalquePOD32: '0',
+        flechaMedidaPOD32: '0',
+/*         variacaoBitolaBase5POD32: '0',
+        empenoBase2POD32: '0',
+        empenoBase10POD32: '0',
+        variacaoFlechaBase3POD32: '0', */
+
+        // estacaCadaMetro33: '-37',
+        bitolaPasseioPOD33: '0',
+        superelevacaoRecalquePOD33: '0',
+        flechaMedidaPOD33: '0',
+/*         variacaoBitolaBase5POD33: '0',
+        empenoBase2POD33: '0',
+        empenoBase10POD33: '0',
+        variacaoFlechaBase3POD33: '0', */
+
+        // estacaCadaMetro34: '-36',
+        bitolaPasseioPOD34: '0',
+        superelevacaoRecalquePOD34: '0',
+        flechaMedidaPOD34: '0',
+/*         variacaoBitolaBase5POD34: '0',
+        empenoBase2POD34: '0',
+        empenoBase10POD34: '0',
+        variacaoFlechaBase3POD34: '0', */
+
+        // estacaCadaMetro35: '-35',
+        bitolaPasseioPOD35: '0',
+        superelevacaoRecalquePOD35: '0',
+        flechaMedidaPOD35: '0',
+/*         variacaoBitolaBase5POD35: '0',
+        empenoBase2POD35: '0',
+        empenoBase10POD35: '0',
+        variacaoFlechaBase3POD35: '0', */
+
+        // estacaCadaMetro36: '-34',
+        bitolaPasseioPOD36: '0',
+        superelevacaoRecalquePOD36: '0',
+        flechaMedidaPOD36: '0',
+/*         variacaoBitolaBase5POD36: '0',
+        empenoBase2POD36: '0',
+        empenoBase10POD36: '0',
+        variacaoFlechaBase3POD36: '0', */
+
+        // estacaCadaMetro37: '-33',
+        bitolaPasseioPOD37: '0',
+        superelevacaoRecalquePOD37: '0',
+        flechaMedidaPOD37: '0',
+/*         variacaoBitolaBase5POD37: '0',
+        empenoBase2POD37: '0',
+        empenoBase10POD37: '0',
+        variacaoFlechaBase3POD37: '0', */
+
+        // estacaCadaMetro38: '-32',
+        bitolaPasseioPOD38: '0',
+        superelevacaoRecalquePOD38: '0',
+        flechaMedidaPOD38: '0',
+/*         variacaoBitolaBase5POD38: '0',
+        empenoBase2POD38: '0',
+        empenoBase10POD38: '0',
+        variacaoFlechaBase3POD38: '0',
+ */
+        // estacaCadaMetro39: '-31',
+        bitolaPasseioPOD39: '0',
+        superelevacaoRecalquePOD39: '0',
+        flechaMedidaPOD39: '0',
+/*         variacaoBitolaBase5POD39: '0',
+        empenoBase2POD39: '0',
+        empenoBase10POD39: '0',
+        variacaoFlechaBase3POD39: '0', */
+
+        // estacaCadaMetro40: '-30',
+        bitolaPasseioPOD40: '0',
+        superelevacaoRecalquePOD40: '0',
+        flechaMedidaPOD40: '0',
+/*         variacaoBitolaBase5POD40: '0',
+        empenoBase2POD40: '0',
+        empenoBase10POD40: '0',
+        variacaoFlechaBase3POD40: '0', */
+
+        // estacaCadaMetro41: '-29',
+        bitolaPasseioPOD41: '0',
+        superelevacaoRecalquePOD41: '0',
+        flechaMedidaPOD41: '0',
+/*         variacaoBitolaBase5POD41: '0',
+        empenoBase2POD41: '0',
+        empenoBase10POD41: '0',
+        variacaoFlechaBase3POD41: '0', */
+
+        // estacaCadaMetro42: '-28',
+        bitolaPasseioPOD42: '0',
+        superelevacaoRecalquePOD42: '0',
+        flechaMedidaPOD42: '0',
+/*         variacaoBitolaBase5POD42: '0',
+        empenoBase2POD42: '0',
+        empenoBase10POD42: '0',
+        variacaoFlechaBase3POD42: '0', */
+
+        // estacaCadaMetro43: '-27',
+        bitolaPasseioPOD43: '0',
+        superelevacaoRecalquePOD43: '0',
+        flechaMedidaPOD43: '0',
+/*         variacaoBitolaBase5POD43: '0',
+        empenoBase2POD43: '0',
+        empenoBase10POD43: '0',
+        variacaoFlechaBase3POD43: '0', */
+
+        // estacaCadaMetro44: '-26',
+        bitolaPasseioPOD44: '0',
+        superelevacaoRecalquePOD44: '0',
+        flechaMedidaPOD44: '0',
+/*         variacaoBitolaBase5POD44: '0',
+        empenoBase2POD44: '0',
+        empenoBase10POD44: '0',
+        variacaoFlechaBase3POD44: '0', */
+
+        // estacaCadaMetro45: '-25',
+        bitolaPasseioPOD45: '0',
+        superelevacaoRecalquePOD45: '0',
+        flechaMedidaPOD45: '0',
+/*         variacaoBitolaBase5POD45: '0',
+        empenoBase2POD45: '0',
+        empenoBase10POD45: '0',
+        variacaoFlechaBase3POD45: '0', */
+
+        // estacaCadaMetro46: '-24',
+        bitolaPasseioPOD46: '0',
+        superelevacaoRecalquePOD46: '0',
+        flechaMedidaPOD46: '0',
+/*         variacaoBitolaBase5POD46: '0',
+        empenoBase2POD46: '0',
+        empenoBase10POD46: '0',
+        variacaoFlechaBase3POD46: '0', */
+
+        // estacaCadaMetro47: '-23',
+        bitolaPasseioPOD47: '0',
+        superelevacaoRecalquePOD47: '0',
+        flechaMedidaPOD47: '0',
+/*         variacaoBitolaBase5POD47: '0',
+        empenoBase2POD47: '0',
+        empenoBase10POD47: '0',
+        variacaoFlechaBase3POD47: '0', */
+
+        // estacaCadaMetro48: '-22',
+        bitolaPasseioPOD48: '0',
+        superelevacaoRecalquePOD48: '0',
+        flechaMedidaPOD48: '0',
+/*         variacaoBitolaBase5POD48: '0',
+        empenoBase2POD48: '0',
+        empenoBase10POD48: '0',
+        variacaoFlechaBase3POD48: '0', */
+
+        // estacaCadaMetro49: '-21',
+        bitolaPasseioPOD49: '0',
+        superelevacaoRecalquePOD49: '0',
+        flechaMedidaPOD49: '0',
+/*         variacaoBitolaBase5POD49: '0',
+        empenoBase2POD49: '0',
+        empenoBase10POD49: '0',
+        variacaoFlechaBase3POD49: '0', */
+
+        // estacaCadaMetro50: '-20',
+        bitolaPasseioPOD50: '0',
+        superelevacaoRecalquePOD50: '0',
+        flechaMedidaPOD50: '0',
+/*         variacaoBitolaBase5POD50: '0',
+        empenoBase2POD50: '0',
+        empenoBase10POD50: '0',
+        variacaoFlechaBase3POD50: '0', */
+
+        // estacaCadaMetro51: '-19',
+        bitolaPasseioPOD51: '0',
+        superelevacaoRecalquePOD51: '0',
+        flechaMedidaPOD51: '0',
+/*         variacaoBitolaBase5POD51: '0',
+        empenoBase2POD51: '0',
+        empenoBase10POD51: '0',
+        variacaoFlechaBase3POD51: '0', */
+
+        // estacaCadaMetro52: '-18',
+        bitolaPasseioPOD52: '0',
+        superelevacaoRecalquePOD52: '0',
+        flechaMedidaPOD52: '0',
+/*         variacaoBitolaBase5POD52: '0',
+        empenoBase2POD52: '0',
+        empenoBase10POD52: '0',
+        variacaoFlechaBase3POD52: '0', */
+
+        // estacaCadaMetro53: '-17',
+        bitolaPasseioPOD53: '0',
+        superelevacaoRecalquePOD53: '0',
+        flechaMedidaPOD53: '0',
+/*         variacaoBitolaBase5POD53: '0',
+        empenoBase2POD53: '0',
+        empenoBase10POD53: '0',
+        variacaoFlechaBase3POD53: '0', */
+
+        // estacaCadaMetro54: '-16',
+        bitolaPasseioPOD54: '0',
+        superelevacaoRecalquePOD54: '0',
+        flechaMedidaPOD54: '0',
+/*         variacaoBitolaBase5POD54: '0',
+        empenoBase2POD54: '0',
+        empenoBase10POD54: '0',
+        variacaoFlechaBase3POD54: '0', */
+
+        // estacaCadaMetro55: '-15',
+        bitolaPasseioPOD55: '0',
+        superelevacaoRecalquePOD55: '0',
+        flechaMedidaPOD55: '0',
+/*         variacaoBitolaBase5POD55: '0',
+        empenoBase2POD55: '0',
+        empenoBase10POD55: '0',
+        variacaoFlechaBase3POD55: '0', */
+
+        // estacaCadaMetro56: '-14',
+        bitolaPasseioPOD56: '0',
+        superelevacaoRecalquePOD56: '0',
+        flechaMedidaPOD56: '0',
+/*         variacaoBitolaBase5POD56: '0',
+        empenoBase2POD56: '0',
+        empenoBase10POD56: '0',
+        variacaoFlechaBase3POD56: '0', */
+
+        // estacaCadaMetro57: '-13',
+        bitolaPasseioPOD57: '0',
+        superelevacaoRecalquePOD57: '0',
+        flechaMedidaPOD57: '0',
+/*         variacaoBitolaBase5POD57: '0',
+        empenoBase2POD57: '0',
+        empenoBase10POD57: '0',
+        variacaoFlechaBase3POD57: '0', */
+
+        // estacaCadaMetro58: '-12',
+        bitolaPasseioPOD58: '0',
+        superelevacaoRecalquePOD58: '0',
+        flechaMedidaPOD58: '0',
+/*         variacaoBitolaBase5POD58: '0',
+        empenoBase2POD58: '0',
+        empenoBase10POD58: '0',
+        variacaoFlechaBase3POD58: '0', */
+
+        // estacaCadaMetro59: '-11',
+        bitolaPasseioPOD59: '0',
+        superelevacaoRecalquePOD59: '0',
+        flechaMedidaPOD59: '0',
+/*         variacaoBitolaBase5POD59: '0',
+        empenoBase2POD59: '0',
+        empenoBase10POD59: '0',
+        variacaoFlechaBase3POD59: '0', */
+
+        // estacaCadaMetro60: '-10',
+        bitolaPasseioPOD60: '0',
+        superelevacaoRecalquePOD60: '0',
+        flechaMedidaPOD60: '0',
+/*         variacaoBitolaBase5POD60: '0',
+        empenoBase2POD60: '0',
+        empenoBase10POD60: '0',
+        variacaoFlechaBase3POD60: '0', */
+
+        // estacaCadaMetro61: '-9',
+        bitolaPasseioPOD61: '0',
+        superelevacaoRecalquePOD61: '0',
+        flechaMedidaPOD61: '0',
+/*         variacaoBitolaBase5POD61: '0',
+        empenoBase2POD61: '0',
+        empenoBase10POD61: '0',
+        variacaoFlechaBase3POD61: '0', */
+
+        // estacaCadaMetro62: '-8',
+        bitolaPasseioPOD62: '0',
+        superelevacaoRecalquePOD62: '0',
+        flechaMedidaPOD62: '0',
+/*         variacaoBitolaBase5POD62: '0',
+        empenoBase2POD62: '0',
+        empenoBase10POD62: '0',
+        variacaoFlechaBase3POD62: '0', */
+
+        // estacaCadaMetro63: '-7',
+        bitolaPasseioPOD63: '0',
+        superelevacaoRecalquePOD63: '0',
+        flechaMedidaPOD63: '0',
+/*         variacaoBitolaBase5POD63: '0',
+        empenoBase2POD63: '0',
+        empenoBase10POD63: '0',
+        variacaoFlechaBase3POD63: '0', */
+
+        // estacaCadaMetro64: '-6',
+        bitolaPasseioPOD64: '0',
+        superelevacaoRecalquePOD64: '0',
+        flechaMedidaPOD64: '0',
+/*         variacaoBitolaBase5POD64: '0',
+        empenoBase2POD64: '0',
+        empenoBase10POD64: '0',
+        variacaoFlechaBase3POD64: '0', */
+
+        // estacaCadaMetro65: '-5',
+        bitolaPasseioPOD65: '0',
+        superelevacaoRecalquePOD65: '0',
+        flechaMedidaPOD65: '0',
+/*         variacaoBitolaBase5POD65: '0',
+        empenoBase2POD65: '0',
+        empenoBase10POD65: '0',
+        variacaoFlechaBase3POD65: '0', */
+
+        // estacaCadaMetro66: '-4',
+        bitolaPasseioPOD66: '0',
+        superelevacaoRecalquePOD66: '0',
+        flechaMedidaPOD66: '0',
+/*         variacaoBitolaBase5POD66: '0',
+        empenoBase2POD66: '0',
+        empenoBase10POD66: '0',
+        variacaoFlechaBase3POD66: '0', */
+
+        // estacaCadaMetro67: '-3',
+        bitolaPasseioPOD67: '0',
+        superelevacaoRecalquePOD67: '0',
+        flechaMedidaPOD67: '0',
+/*         variacaoBitolaBase5POD67: '0',
+        empenoBase2POD67: '0',
+        empenoBase10POD67: '0',
+        variacaoFlechaBase3POD67: '0', */
+
+        // estacaCadaMetro68: '-2',
+        bitolaPasseioPOD68: '0',
+        superelevacaoRecalquePOD68: '0',
+        flechaMedidaPOD68: '0',
+/*         variacaoBitolaBase5POD68: '0',
+        empenoBase2POD68: '0',
+        empenoBase10POD68: '0',
+        variacaoFlechaBase3POD68: '0', */
+
+        // estacaCadaMetro69: '-1',
+        bitolaPasseioPOD69: '0',
+        superelevacaoRecalquePOD69: '0',
+        flechaMedidaPOD69: '0',
+/*         variacaoBitolaBase5POD69: '0',
+        empenoBase2POD69: '0',
+        empenoBase10POD69: '0',
+        variacaoFlechaBase3POD69: '0', */
+
+        // estacaCadaMetro70: '0',
+        bitolaPasseioPOD70: '0',
+        superelevacaoRecalquePOD70: '0',
+        flechaMedidaPOD70: '0',
+/*         variacaoBitolaBase5POD70: '0',
+        empenoBase2POD70: '0',
+        empenoBase10POD70: '0',
+        variacaoFlechaBase3POD70: '0', */
+
+        // estacaCadaMetro71: '1',
+        bitolaPasseioPOD71: '0',
+        superelevacaoRecalquePOD71: '0',
+        flechaMedidaPOD71: '0',
+/*         variacaoBitolaBase5POD71: '0',
+        empenoBase2POD71: '0',
+        empenoBase10POD71: '0',
+        variacaoFlechaBase3POD71: '0', */
+
+        // estacaCadaMetro72: '2',
+        bitolaPasseioPOD72: '0',
+        superelevacaoRecalquePOD72: '0',
+        flechaMedidaPOD72: '0',
+/*         variacaoBitolaBase5POD72: '0',
+        empenoBase2POD72: '0',
+        empenoBase10POD72: '0',
+        variacaoFlechaBase3POD72: '0', */
+
+        // estacaCadaMetro73: '3',
+        bitolaPasseioPOD73: '0',
+        superelevacaoRecalquePOD73: '0',
+        flechaMedidaPOD73: '0',
+  /*       variacaoBitolaBase5POD73: '0',
+        empenoBase2POD73: '0',
+        empenoBase10POD73: '0',
+        variacaoFlechaBase3POD73: '0',
+ */
+        // estacaCadaMetro74: '4',
+        bitolaPasseioPOD74: '0',
+        superelevacaoRecalquePOD74: '0',
+        flechaMedidaPOD74: '0',
+/*         variacaoBitolaBase5POD74: '0',
+        empenoBase2POD74: '0',
+        empenoBase10POD74: '0',
+        variacaoFlechaBase3POD74: '0', */
+
+        // estacaCadaMetro75: '5',
+        bitolaPasseioPOD75: '0',
+        superelevacaoRecalquePOD75: '0',
+        flechaMedidaPOD75: '0',
+  /*       variacaoBitolaBase5POD75: '0',
+        empenoBase2POD75: '0',
+        empenoBase10POD75: '0',
+        variacaoFlechaBase3POD75: '0', */
+
+        // estacaCadaMetro76: '6',
+        bitolaPasseioPOD76: '0',
+        superelevacaoRecalquePOD76: '0',
+        flechaMedidaPOD76: '0',
+/*         variacaoBitolaBase5POD76: '0',
+        empenoBase2POD76: '0',
+        empenoBase10POD76: '0',
+        variacaoFlechaBase3POD76: '0', */
+
+        // estacaCadaMetro77: '7',
+        bitolaPasseioPOD77: '0',
+        superelevacaoRecalquePOD77: '0',
+        flechaMedidaPOD77: '0',
+/*         variacaoBitolaBase5POD77: '0',
+        empenoBase2POD77: '0',
+        empenoBase10POD77: '0',
+        variacaoFlechaBase3POD77: '0', */
+
+        // estacaCadaMetro78: '8',
+        bitolaPasseioPOD78: '0',
+        superelevacaoRecalquePOD78: '0',
+        flechaMedidaPOD78: '0',
+/*         variacaoBitolaBase5POD78: '0',
+        empenoBase2POD78: '0',
+        empenoBase10POD78: '0',
+        variacaoFlechaBase3POD78: '0', */
+
+        // estacaCadaMetro79: '9',
+        bitolaPasseioPOD79: '0',
+        superelevacaoRecalquePOD79: '0',
+        flechaMedidaPOD79: '0',
+/*         variacaoBitolaBase5POD79: '0',
+        empenoBase2POD79: '0',
+        empenoBase10POD79: '0',
+        variacaoFlechaBase3POD79: '0', */
+
+        // estacaCadaMetro80: '10',
+        bitolaPasseioPOD80: '0',
+        superelevacaoRecalquePOD80: '0',
+        flechaMedidaPOD80: '0',
+/*         variacaoBitolaBase5POD80: '0',
+        empenoBase2POD80: '0',
+        empenoBase10POD80: '0',
+        variacaoFlechaBase3POD80: '0', */
+
+        // estacaCadaMetro81: '11',
+        bitolaPasseioPOD81: '0',
+        superelevacaoRecalquePOD81: '0',
+        flechaMedidaPOD81: '0',
+/*         variacaoBitolaBase5POD81: '0',
+        empenoBase2POD81: '0',
+        empenoBase10POD81: '0',
+        variacaoFlechaBase3POD81: '0', */
+
+        // estacaCadaMetro82: '12',
+        bitolaPasseioPOD82: '0',
+        superelevacaoRecalquePOD82: '0',
+        flechaMedidaPOD82: '0',
+/*         variacaoBitolaBase5POD82: '0',
+        empenoBase2POD82: '0',
+        empenoBase10POD82: '0',
+        variacaoFlechaBase3POD82: '0', */
+
+        // estacaCadaMetro83: '13',
+        bitolaPasseioPOD83: '0',
+        superelevacaoRecalquePOD83: '0',
+        flechaMedidaPOD83: '0',
+/*         variacaoBitolaBase5POD83: '0',
+        empenoBase2POD83: '0',
+        empenoBase10POD83: '0',
+        variacaoFlechaBase3POD83: '0', */
+
+        // estacaCadaMetro84: '14',
+        bitolaPasseioPOD84: '0',
+        superelevacaoRecalquePOD84: '0',
+        flechaMedidaPOD84: '0',
+/*         variacaoBitolaBase5POD84: '0',
+        empenoBase2POD84: '0',
+        empenoBase10POD84: '0',
+        variacaoFlechaBase3POD84: '0', */
+
+        // estacaCadaMetro85: '15',
+        bitolaPasseioPOD85: '0',
+        superelevacaoRecalquePOD85: '0',
+        flechaMedidaPOD85: '0',
+/*         variacaoBitolaBase5POD85: '0',
+        empenoBase2POD85: '0',
+        empenoBase10POD85: '0',
+        variacaoFlechaBase3POD85: '0', */
+
+        // estacaCadaMetro86: '16',
+        bitolaPasseioPOD86: '0',
+        superelevacaoRecalquePOD86: '0',
+        flechaMedidaPOD86: '0',
+ /*        variacaoBitolaBase5POD86: '0',
+        empenoBase2POD86: '0',
+        empenoBase10POD86: '0',
+        variacaoFlechaBase3POD86: '0', */
+
+        // estacaCadaMetro87: '17',
+        bitolaPasseioPOD87: '0',
+        superelevacaoRecalquePOD87: '0',
+        flechaMedidaPOD87: '0',
+/*         variacaoBitolaBase5POD87: '0',
+        empenoBase2POD87: '0',
+        empenoBase10POD87: '0',
+        variacaoFlechaBase3POD87: '0', */
+
+        // estacaCadaMetro88: '18',
+        bitolaPasseioPOD88: '0',
+        superelevacaoRecalquePOD88: '0',
+        flechaMedidaPOD88: '0',
+/*         variacaoBitolaBase5POD88: '0',
+        empenoBase2POD88: '0',
+        empenoBase10POD88: '0',
+        variacaoFlechaBase3POD88: '0', */
+
+        // estacaCadaMetro89: '19',
+        bitolaPasseioPOD89: '0',
+        superelevacaoRecalquePOD89: '0',
+        flechaMedidaPOD89: '0',
+/*         variacaoBitolaBase5POD89: '0',
+        empenoBase2POD89: '0',
+        empenoBase10POD89: '0',
+        variacaoFlechaBase3POD89: '0', */
+
+        // estacaCadaMetro90: '20',
+        bitolaPasseioPOD90: '0',
+        superelevacaoRecalquePOD90: '0',
+        flechaMedidaPOD90: '0',
+/*         variacaoBitolaBase5POD90: '0',
+        empenoBase2POD90: '0',
+        empenoBase10POD90: '0',
+        variacaoFlechaBase3POD90: '0', */
+
+        // estacaCadaMetro91: '21',
+        bitolaPasseioPOD91: '0',
+        superelevacaoRecalquePOD91: '0',
+        flechaMedidaPOD91: '0',
+/*         variacaoBitolaBase5POD91: '0',
+        empenoBase2POD91: '0',
+        empenoBase10POD91: '0',
+        variacaoFlechaBase3POD91: '0', */
+
+        // estacaCadaMetro92: '22',
+        bitolaPasseioPOD92: '0',
+        superelevacaoRecalquePOD92: '0',
+        flechaMedidaPOD92: '0',
+/*         variacaoBitolaBase5POD92: '0',
+        empenoBase2POD92: '0',
+        empenoBase10POD92: '0',
+        variacaoFlechaBase3POD92: '0', */
+
+        // estacaCadaMetro93: '23',
+        bitolaPasseioPOD93: '0',
+        superelevacaoRecalquePOD93: '0',
+        flechaMedidaPOD93: '0',
+/*         variacaoBitolaBase5POD93: '0',
+        empenoBase2POD93: '0',
+        empenoBase10POD93: '0',
+        variacaoFlechaBase3POD93: '0', */
+
+        // estacaCadaMetro94: '24',
+        bitolaPasseioPOD94: '0',
+        superelevacaoRecalquePOD94: '0',
+        flechaMedidaPOD94: '0',
+/*         variacaoBitolaBase5POD94: '0',
+        empenoBase2POD94: '0',
+        empenoBase10POD94: '0',
+        variacaoFlechaBase3POD94: '0', */
+
+        // estacaCadaMetro95: '25',
+        bitolaPasseioPOD95: '0',
+        superelevacaoRecalquePOD95: '0',
+        flechaMedidaPOD95: '0',
+/*         variacaoBitolaBase5POD95: '0',
+        empenoBase2POD95: '0',
+        empenoBase10POD95: '0',
+        variacaoFlechaBase3POD95: '0', */
+
+        // estacaCadaMetro96: '26',
+        bitolaPasseioPOD96: '0',
+        superelevacaoRecalquePOD96: '0',
+        flechaMedidaPOD96: '0',
+/*         variacaoBitolaBase5POD96: '0',
+        empenoBase2POD96: '0',
+        empenoBase10POD96: '0',
+        variacaoFlechaBase3POD96: '0', */
+
+        // estacaCadaMetro97: '27',
+        bitolaPasseioPOD97: '0',
+        superelevacaoRecalquePOD97: '0',
+        flechaMedidaPOD97: '0',
+/*         variacaoBitolaBase5POD97: '0',
+        empenoBase2POD97: '0',
+        empenoBase10POD97: '0',
+        variacaoFlechaBase3POD97: '0', */
+
+        // estacaCadaMetro98: '28',
+        bitolaPasseioPOD98: '0',
+        superelevacaoRecalquePOD98: '0',
+        flechaMedidaPOD98: '0',
+/*         variacaoBitolaBase5POD98: '0',
+        empenoBase2POD98: '0',
+        empenoBase10POD98: '0',
+        variacaoFlechaBase3POD98: '0', */
+
+        // estacaCadaMetro99: '29',
+        bitolaPasseioPOD99: '0',
+        superelevacaoRecalquePOD99: '0',
+        flechaMedidaPOD99: '0',
+/*         variacaoBitolaBase5POD99: '0',
+        empenoBase2POD99: '0',
+        empenoBase10POD99: '0',
+        variacaoFlechaBase3POD99: '0', */
+
+        // estacaCadaMetro100: '30',
+        bitolaPasseioPOD100: '0',
+        superelevacaoRecalquePOD100: '0',
+        flechaMedidaPOD100: '0',
+/*         variacaoBitolaBase5POD100: '0',
+        empenoBase2POD100: '0',
+        empenoBase10POD100: '0',
+        variacaoFlechaBase3POD100: '0' */
 
 		});	
 		
@@ -2903,7 +2903,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro}</Text>
+										<Text style={styles.tablePODCol1}>-70</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -2949,7 +2949,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro1}</Text>
+										<Text style={styles.tablePODCol1}>-69</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -2997,7 +2997,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro2}</Text>
+										<Text style={styles.tablePODCol1}>-68</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3045,7 +3045,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro3}</Text>
+										<Text style={styles.tablePODCol1}>-67</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3093,7 +3093,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro4}</Text>
+										<Text style={styles.tablePODCol1}>-66</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3141,7 +3141,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro5}</Text>
+										<Text style={styles.tablePODCol1}>-65</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3189,7 +3189,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro6}</Text>
+										<Text style={styles.tablePODCol1}>-64</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3237,7 +3237,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro7}</Text>
+										<Text style={styles.tablePODCol1}>-63</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3285,7 +3285,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro8}</Text>
+										<Text style={styles.tablePODCol1}>-62</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3333,7 +3333,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro9}</Text>
+										<Text style={styles.tablePODCol1}>-61</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3381,7 +3381,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro10}</Text>
+										<Text style={styles.tablePODCol1}>-60</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3432,7 +3432,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro11}</Text>
+										<Text style={styles.tablePODCol1}>-59</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3480,7 +3480,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro12}</Text>
+										<Text style={styles.tablePODCol1}>-58</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3528,7 +3528,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro13}</Text>
+										<Text style={styles.tablePODCol1}>-57</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3576,7 +3576,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro14}</Text>
+										<Text style={styles.tablePODCol1}>-56</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3624,7 +3624,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro15}</Text>
+										<Text style={styles.tablePODCol1}>-55</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3672,7 +3672,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro16}</Text>
+										<Text style={styles.tablePODCol1}>-54</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3720,7 +3720,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro17}</Text>
+										<Text style={styles.tablePODCol1}>-53</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3768,7 +3768,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro18}</Text>
+										<Text style={styles.tablePODCol1}>-52</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3816,7 +3816,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro19}</Text>
+										<Text style={styles.tablePODCol1}>-51</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3864,7 +3864,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro20}</Text>
+										<Text style={styles.tablePODCol1}>-50</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3916,7 +3916,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro21}</Text>
+										<Text style={styles.tablePODCol1}>-49</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -3964,7 +3964,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro22}</Text>
+										<Text style={styles.tablePODCol1}>-48</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4012,7 +4012,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro23}</Text>
+										<Text style={styles.tablePODCol1}>-47</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4060,7 +4060,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro24}</Text>
+										<Text style={styles.tablePODCol1}>-46</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4108,7 +4108,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro25}</Text>
+										<Text style={styles.tablePODCol1}>-45</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4156,7 +4156,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro26}</Text>
+										<Text style={styles.tablePODCol1}>-44</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4204,7 +4204,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro27}</Text>
+										<Text style={styles.tablePODCol1}>-43</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4252,7 +4252,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro28}</Text>
+										<Text style={styles.tablePODCol1}>-42</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4300,7 +4300,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro29}</Text>
+										<Text style={styles.tablePODCol1}>-41</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4348,7 +4348,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro30}</Text>
+										<Text style={styles.tablePODCol1}>-40</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4400,7 +4400,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro31}</Text>
+										<Text style={styles.tablePODCol1}>-39</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4448,7 +4448,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro32}</Text>
+										<Text style={styles.tablePODCol1}>-38</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4496,7 +4496,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro33}</Text>
+										<Text style={styles.tablePODCol1}>-37</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4544,7 +4544,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro34}</Text>
+										<Text style={styles.tablePODCol1}>-36</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4592,7 +4592,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro35}</Text>
+										<Text style={styles.tablePODCol1}>-35</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4640,7 +4640,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro36}</Text>
+										<Text style={styles.tablePODCol1}>-34</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4688,7 +4688,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro37}</Text>
+										<Text style={styles.tablePODCol1}>-33</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4736,7 +4736,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro38}</Text>
+										<Text style={styles.tablePODCol1}>-32</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4784,7 +4784,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro39}</Text>
+										<Text style={styles.tablePODCol1}>-31</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4832,7 +4832,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro40}</Text>
+										<Text style={styles.tablePODCol1}>-30</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4885,7 +4885,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro41}</Text>
+										<Text style={styles.tablePODCol1}>-29</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4933,7 +4933,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro42}</Text>
+										<Text style={styles.tablePODCol1}>-28</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -4981,7 +4981,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro43}</Text>
+										<Text style={styles.tablePODCol1}>-27</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5029,7 +5029,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro44}</Text>
+										<Text style={styles.tablePODCol1}>-26</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5077,7 +5077,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro45}</Text>
+										<Text style={styles.tablePODCol1}>-25</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5125,7 +5125,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro46}</Text>
+										<Text style={styles.tablePODCol1}>-24</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5173,7 +5173,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro47}</Text>
+										<Text style={styles.tablePODCol1}>-23</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5221,7 +5221,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro48}</Text>
+										<Text style={styles.tablePODCol1}>-22</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5269,7 +5269,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro49}</Text>
+										<Text style={styles.tablePODCol1}>-21</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5317,7 +5317,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro50}</Text>
+										<Text style={styles.tablePODCol1}>-20</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5370,7 +5370,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro51}</Text>
+										<Text style={styles.tablePODCol1}>-19</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5418,7 +5418,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro52}</Text>
+										<Text style={styles.tablePODCol1}>-18</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5466,7 +5466,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro53}</Text>
+										<Text style={styles.tablePODCol1}>-17</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5514,7 +5514,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro54}</Text>
+										<Text style={styles.tablePODCol1}>-16</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5562,7 +5562,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro55}</Text>
+										<Text style={styles.tablePODCol1}>-15</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5610,7 +5610,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro56}</Text>
+										<Text style={styles.tablePODCol1}>-14</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5658,7 +5658,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro57}</Text>
+										<Text style={styles.tablePODCol1}>-13</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5706,7 +5706,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro58}</Text>
+										<Text style={styles.tablePODCol1}>-12</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5754,7 +5754,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro59}</Text>
+										<Text style={styles.tablePODCol1}>-11</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5802,7 +5802,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro60}</Text>
+										<Text style={styles.tablePODCol1}>-10</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5856,7 +5856,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro61}</Text>
+										<Text style={styles.tablePODCol1}>-9</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5904,7 +5904,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro62}</Text>
+										<Text style={styles.tablePODCol1}>-8</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -5952,7 +5952,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro63}</Text>
+										<Text style={styles.tablePODCol1}>-7</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6000,7 +6000,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro64}</Text>
+										<Text style={styles.tablePODCol1}>-6</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6048,7 +6048,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro65}</Text>
+										<Text style={styles.tablePODCol1}>-5</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6096,7 +6096,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro66}</Text>
+										<Text style={styles.tablePODCol1}>-4</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6144,7 +6144,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro67}</Text>
+										<Text style={styles.tablePODCol1}>-3</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6192,7 +6192,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro68}</Text>
+										<Text style={styles.tablePODCol1}>-2</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6240,7 +6240,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro69}</Text>
+										<Text style={styles.tablePODCol1}>-1</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6288,7 +6288,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro70}</Text>
+										<Text style={styles.tablePODCol1}>0</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6342,7 +6342,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro71}</Text>
+										<Text style={styles.tablePODCol1}>1</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6390,7 +6390,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro72}</Text>
+										<Text style={styles.tablePODCol1}>2</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6438,7 +6438,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro73}</Text>
+										<Text style={styles.tablePODCol1}>3</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6486,7 +6486,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro74}</Text>
+										<Text style={styles.tablePODCol1}>4</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6534,7 +6534,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro75}</Text>
+										<Text style={styles.tablePODCol1}>5</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6582,7 +6582,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro76}</Text>
+										<Text style={styles.tablePODCol1}>6</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6630,7 +6630,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro77}</Text>
+										<Text style={styles.tablePODCol1}>7</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6678,7 +6678,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro78}</Text>
+										<Text style={styles.tablePODCol1}>8</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6726,7 +6726,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro79}</Text>
+										<Text style={styles.tablePODCol1}>9</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6774,7 +6774,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro80}</Text>
+										<Text style={styles.tablePODCol1}>10</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6828,7 +6828,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro81}</Text>
+										<Text style={styles.tablePODCol1}>11</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6876,7 +6876,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro82}</Text>
+										<Text style={styles.tablePODCol1}>12</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6924,7 +6924,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro83}</Text>
+										<Text style={styles.tablePODCol1}>13</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -6972,7 +6972,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro84}</Text>
+										<Text style={styles.tablePODCol1}>14</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7020,7 +7020,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro85}</Text>
+										<Text style={styles.tablePODCol1}>15</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7068,7 +7068,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro86}</Text>
+										<Text style={styles.tablePODCol1}>16</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7116,7 +7116,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro87}</Text>
+										<Text style={styles.tablePODCol1}>17</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7164,7 +7164,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro88}</Text>
+										<Text style={styles.tablePODCol1}>18</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7212,7 +7212,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro89}</Text>
+										<Text style={styles.tablePODCol1}>19</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7260,7 +7260,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro90}</Text>
+										<Text style={styles.tablePODCol1}>20</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7313,7 +7313,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro91}</Text>
+										<Text style={styles.tablePODCol1}>21</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7361,7 +7361,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro92}</Text>
+										<Text style={styles.tablePODCol1}>22</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7409,7 +7409,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro93}</Text>
+										<Text style={styles.tablePODCol1}>23</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7457,7 +7457,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro94}</Text>
+										<Text style={styles.tablePODCol1}>24</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7505,7 +7505,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro95}</Text>
+										<Text style={styles.tablePODCol1}>25</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7553,7 +7553,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro96}</Text>
+										<Text style={styles.tablePODCol1}>26</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7601,7 +7601,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro97}</Text>
+										<Text style={styles.tablePODCol1}>27</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7649,7 +7649,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro98}</Text>
+										<Text style={styles.tablePODCol1}>28</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7697,7 +7697,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro99}</Text>
+										<Text style={styles.tablePODCol1}>29</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
@@ -7745,7 +7745,7 @@ export default function DadosVia(props) {
 
 								<View style={styles.tablePODMedicoes}>
 									<View style={styles.tablePODMedicoesRow1}>
-										<Text style={styles.tablePODCol1}>{dadosForm.estacaCadaMetro100}</Text>
+										<Text style={styles.tablePODCol1}>30</Text>
 									</View>
 									<View  style={styles.tablePODMedicoesRow3}>
 										<TextInput 
