@@ -1268,7 +1268,7 @@ export default function DadosVia(props) {
 			custosDeslocamento: '0.00',
 			custosPessoal: '0.00',
 			custosTotal: '0.00',
-			limiteSegClassePOD: true,
+			limiteSegClassePOD: 1,
 
 		
 

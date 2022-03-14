@@ -32,7 +32,8 @@ export function SendForm(props) {
 	const sendFormApp = async (callback) => {
 
 		const requiredField = props.req(props.json);
-
+		console.log("JSON de Retorno do RequiredField")
+		console.log(requiredField)
 		if (requiredField == "") {
 			const response = await send(props.json, props.route, context.userId, props.createdForm);
 			//Mensagem retornada em string
@@ -94,6 +95,7 @@ export function SendForm(props) {
 
 export const send = async (json, route, userId, createdForm) => {
 	try {
+		console.log("entrou no send")
 		if (userId && json.idBoletim != '') {
 
 			json.userId = userId;
